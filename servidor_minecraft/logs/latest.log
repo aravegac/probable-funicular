@@ -111,3 +111,26 @@
 [31Mar2025 22:58:21.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> por el ban lol
 [31Mar2025 22:58:23.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Getting an Upgrade]
 [31Mar2025 22:58:27.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> asi q igual toy en duda
+[31Mar2025 22:58:39.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa lost connection: Disconnected
+[31Mar2025 22:58:39.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa left the game
+[31Mar2025 22:58:45.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [Stone Age]
+[31Mar2025 23:00:16.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: r3xyzz[/127.243.114.185:36793] logged in with entity id 1700 at (-0.4280828348786089, 95.0, -4.521674494043891)
+[31Mar2025 23:00:16.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz joined the game
+[31Mar2025 23:00:22.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [Getting an Upgrade]
+[31Mar2025 23:00:44.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wena
+[31Mar2025 23:00:50.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> el datapack de los arboles funciona
+[31Mar2025 23:01:49.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> lol
+[31Mar2025 23:01:57.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Mar2025 23:01:57.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Mar2025 23:01:57.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Mar2025 23:01:57.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cakeyshere lost connection: Disconnected
+[31Mar2025 23:01:57.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere left the game
+[31Mar2025 23:01:57.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Mar2025 23:01:57.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Mar2025 23:01:59.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Mar2025 23:01:59.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Mar2025 23:01:59.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Mar2025 23:01:59.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Mar2025 23:01:59.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Mar2025 23:01:59.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Mar2025 23:01:59.335] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
