@@ -1,136 +1,125 @@
-[31Mar2025 22:48:33.963] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[31Mar2025 22:48:33.966] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[31Mar2025 22:48:34.181] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[31Mar2025 22:48:34.220] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/probable-funicular/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[31Mar2025 22:48:34.493] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/probable-funicular/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[31Mar2025 22:48:34.494] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/probable-funicular/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[31Mar2025 22:48:34.495] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/probable-funicular/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[31Mar2025 22:48:34.497] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/probable-funicular/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[31Mar2025 22:48:34.634] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[31Mar2025 22:48:36.288] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[31Mar2025 22:48:36.353] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[31Mar2025 22:48:37.889] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
-[31Mar2025 22:48:38.007] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[31Mar2025 22:48:44.217] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[31Mar2025 22:48:44.262] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[31Mar2025 22:48:44.263] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[31Mar2025 22:48:44.267] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[31Mar2025 22:48:46.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
-[31Mar2025 22:48:46.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
-[31Mar2025 22:48:46.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[31Mar2025 22:48:46.438] [main/INFO] [journeymap/]: Initializing Packet Registries
-[31Mar2025 22:48:46.515] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[31Mar2025 22:48:46.515] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[31Mar2025 22:48:46.517] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[31Mar2025 22:48:46.519] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[31Mar2025 22:48:46.589] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[31Mar2025 22:48:46.591] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
-[31Mar2025 22:48:46.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
-[31Mar2025 22:48:46.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[31Mar2025 22:48:47.789] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[31Mar2025 22:48:47.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[31Mar2025 22:48:47.922] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[31Mar2025 22:48:48.047] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[31Mar2025 22:48:48.049] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[31Mar2025 22:48:48.099] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.34 Target: null
-[31Mar2025 22:48:48.688] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/probable-funicular/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23133!/assets/.mcassetsroot' uses unexpected schema
-[31Mar2025 22:48:48.689] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/probable-funicular/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23133!/data/.mcassetsroot' uses unexpected schema
-[31Mar2025 22:48:49.116] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[31Mar2025 22:48:50.874] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[31Mar2025 22:48:51.001] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1841 advancements
-[31Mar2025 22:48:51.005] [main/INFO] [bettervillage/]: Ice And Fire compatibility is enabled for Better Villages.
-[31Mar2025 22:48:51.013] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[31Mar2025 22:48:51.018] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[31Mar2025 22:48:51.569] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
-[31Mar2025 22:48:51.580] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 11 milliseconds
-[31Mar2025 22:48:51.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[31Mar2025 22:48:51.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[31Mar2025 22:48:51.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[31Mar2025 22:48:51.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[31Mar2025 22:48:51.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[31Mar2025 22:48:51.721] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[31Mar2025 22:48:51.812] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[31Mar2025 22:48:51.812] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[31Mar2025 22:48:51.813] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[31Mar2025 22:48:51.813] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[31Mar2025 22:48:51.836] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[31Mar2025 22:48:51.837] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[31Mar2025 22:48:51.839] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[31Mar2025 22:48:51.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[31Mar2025 22:48:54.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[31Mar2025 22:48:57.755] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 22:48:57.756] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 22:48:57.757] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 22:48:57.757] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 22:48:57.758] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 22:48:57.759] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 22:48:57.975] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Mar2025 22:48:58.475] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
-[31Mar2025 22:48:58.813] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3839 ms
-[31Mar2025 22:48:58.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (6.988s)! For help, type "help"
-[31Mar2025 22:48:58.847] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[31Mar2025 22:48:58.877] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[31Mar2025 22:48:58.878] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[31Mar2025 22:49:41.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: r3xyzz[/127.243.114.185:51431] logged in with entity id 96 at (-1.5, 95.0, -4.5)
-[31Mar2025 22:49:41.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz joined the game
-[31Mar2025 22:49:41.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz has made the advancement [Ice and Fire]
-[31Mar2025 22:50:22.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3xyzz lost connection: Disconnected
-[31Mar2025 22:50:22.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz left the game
-[31Mar2025 22:50:26.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: r3xyzz[/127.243.114.185:48581] logged in with entity id 338 at (-0.4280828348786089, 95.0, -4.521674494043891)
-[31Mar2025 22:50:26.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz joined the game
-[31Mar2025 22:52:25.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3xyzz lost connection: Disconnected
-[31Mar2025 22:52:25.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz left the game
-[31Mar2025 22:52:30.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: r3xyzz[/127.243.114.185:50341] logged in with entity id 666 at (-0.4280828348786089, 95.0, -4.521674494043891)
-[31Mar2025 22:52:30.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz joined the game
-[31Mar2025 22:53:59.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3xyzz lost connection: Disconnected
-[31Mar2025 22:53:59.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz left the game
-[31Mar2025 22:54:34.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matelunaaa[/127.20.118.15:41817] logged in with entity id 914 at (10.5, 75.0, 7.5)
-[31Mar2025 22:54:34.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
-[31Mar2025 22:54:35.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Ice and Fire]
-[31Mar2025 22:54:43.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cakeyshere[/127.20.244.241:48551] logged in with entity id 1024 at (-0.5, 91.0, 3.5)
-[31Mar2025 22:54:43.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere joined the game
-[31Mar2025 22:54:43.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [Ice and Fire]
-[31Mar2025 22:54:55.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sdfhsdaosdf
-[31Mar2025 22:55:11.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> si los veo con sus skins q onda
-[31Mar2025 22:56:02.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no tya mal la conexión
-[31Mar2025 22:56:31.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> si funciona el comando
-[31Mar2025 22:56:35.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> el ethan q anda con la regla
-[31Mar2025 22:56:38.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> XDDDD
-[31Mar2025 22:57:19.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> no va de puta madre
-[31Mar2025 22:57:21.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> pero tampoco va mal
-[31Mar2025 22:57:32.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> igual
-[31Mar2025 22:57:33.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> mmm
-[31Mar2025 22:57:39.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> creo q puedo arreglar eso
-[31Mar2025 22:57:40.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> creo
-[31Mar2025 22:57:59.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> igual
-[31Mar2025 22:58:03.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> lo malo
-[31Mar2025 22:58:07.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Stone Age]
-[31Mar2025 22:58:09.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> igual se me va a coinsumir las horas
-[31Mar2025 22:58:13.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> cmo antes
-[31Mar2025 22:58:19.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> y no tengo cmo para crear otra cuenta
-[31Mar2025 22:58:21.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> por el ban lol
-[31Mar2025 22:58:23.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Getting an Upgrade]
-[31Mar2025 22:58:27.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> asi q igual toy en duda
-[31Mar2025 22:58:39.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa lost connection: Disconnected
-[31Mar2025 22:58:39.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa left the game
-[31Mar2025 22:58:45.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [Stone Age]
-[31Mar2025 23:00:16.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: r3xyzz[/127.243.114.185:36793] logged in with entity id 1700 at (-0.4280828348786089, 95.0, -4.521674494043891)
-[31Mar2025 23:00:16.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz joined the game
-[31Mar2025 23:00:22.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [Getting an Upgrade]
-[31Mar2025 23:00:44.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wena
-[31Mar2025 23:00:50.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> el datapack de los arboles funciona
-[31Mar2025 23:01:49.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> lol
-[31Mar2025 23:01:57.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[31Mar2025 23:01:57.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[31Mar2025 23:01:57.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[31Mar2025 23:01:57.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cakeyshere lost connection: Disconnected
-[31Mar2025 23:01:57.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere left the game
-[31Mar2025 23:01:57.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[31Mar2025 23:01:57.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[31Mar2025 23:01:59.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[31Mar2025 23:01:59.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[31Mar2025 23:01:59.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[31Mar2025 23:01:59.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[31Mar2025 23:01:59.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[31Mar2025 23:01:59.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[31Mar2025 23:01:59.335] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Apr2025 00:27:54.958] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[03Apr2025 00:27:54.964] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[03Apr2025 00:27:57.258] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[03Apr2025 00:27:57.360] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/probable-funicular/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[03Apr2025 00:27:57.713] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/probable-funicular/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[03Apr2025 00:27:57.717] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/probable-funicular/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Apr2025 00:27:57.719] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/probable-funicular/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Apr2025 00:27:57.722] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/probable-funicular/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Apr2025 00:27:57.947] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[03Apr2025 00:28:00.198] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Apr2025 00:28:00.271] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[03Apr2025 00:28:01.794] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[03Apr2025 00:28:01.972] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03Apr2025 00:28:11.404] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[03Apr2025 00:28:11.454] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[03Apr2025 00:28:12.492] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[03Apr2025 00:28:12.493] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[03Apr2025 00:28:15.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[03Apr2025 00:28:15.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
+[03Apr2025 00:28:15.696] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[03Apr2025 00:28:15.704] [main/INFO] [journeymap/]: Initializing Packet Registries
+[03Apr2025 00:28:15.775] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[03Apr2025 00:28:15.775] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[03Apr2025 00:28:15.776] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[03Apr2025 00:28:15.776] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[03Apr2025 00:28:16.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[03Apr2025 00:28:16.522] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[03Apr2025 00:28:16.792] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[03Apr2025 00:28:16.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[03Apr2025 00:28:16.875] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.34 Target: null
+[03Apr2025 00:28:16.877] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Apr2025 00:28:17.186] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[03Apr2025 00:28:17.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[03Apr2025 00:28:17.212] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[03Apr2025 00:28:17.821] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Apr2025 00:28:19.157] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/probable-funicular/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/assets/.mcassetsroot' uses unexpected schema
+[03Apr2025 00:28:19.158] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/probable-funicular/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/data/.mcassetsroot' uses unexpected schema
+[03Apr2025 00:28:19.916] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[03Apr2025 00:28:21.008] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[03Apr2025 00:28:22.286] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[03Apr2025 00:28:22.487] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1954 advancements
+[03Apr2025 00:28:22.510] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[03Apr2025 00:28:22.516] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[03Apr2025 00:28:22.519] [main/INFO] [bettervillage/]: Ice And Fire compatibility is enabled for Better Villages.
+[03Apr2025 00:28:23.379] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 13 milliseconds
+[03Apr2025 00:28:23.381] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
+[03Apr2025 00:28:23.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[03Apr2025 00:28:23.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Apr2025 00:28:23.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Apr2025 00:28:23.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Apr2025 00:28:23.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Apr2025 00:28:23.622] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Apr2025 00:28:23.747] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Apr2025 00:28:23.748] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Apr2025 00:28:23.748] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Apr2025 00:28:23.749] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Apr2025 00:28:23.775] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Apr2025 00:28:23.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Apr2025 00:28:27.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Apr2025 00:28:31.524] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Apr2025 00:28:31.566] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Apr2025 00:28:31.674] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Apr2025 00:28:31.710] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Apr2025 00:28:31.725] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Apr2025 00:28:31.750] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Apr2025 00:28:31.797] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Apr2025 00:28:31.836] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Apr2025 00:28:31.837] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Apr2025 00:28:32.313] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Apr2025 00:28:32.886] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Apr2025 00:28:33.312] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Apr2025 00:28:33.812] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[03Apr2025 00:28:34.310] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[03Apr2025 00:28:34.813] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
+[03Apr2025 00:28:34.873] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7063 ms
+[03Apr2025 00:28:34.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.106s)! For help, type "help"
+[03Apr2025 00:28:34.913] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Apr2025 00:28:34.951] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[03Apr2025 00:28:34.951] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[03Apr2025 00:29:30.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sebax401[/127.151.35.132:38603] logged in with entity id 227 at (64.5, 90.0, 53.5)
+[03Apr2025 00:29:30.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 joined the game
+[03Apr2025 00:29:31.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Ice and Fire]
+[03Apr2025 00:29:33.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cakeyshere[/127.20.244.241:36839] logged in with entity id 269 at (68.69274664448511, 80.0, 58.23128114641698)
+[03Apr2025 00:29:33.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere joined the game
+[03Apr2025 00:30:01.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matelunaaa[/127.20.118.15:33733] logged in with entity id 387 at (69.04176751901367, 79.0, 50.84670728285972)
+[03Apr2025 00:30:01.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
+[03Apr2025 00:30:10.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=80, z=50}
+[03Apr2025 00:30:13.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=79, z=50}
+[03Apr2025 00:30:28.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=79, y=76, z=44}
+[03Apr2025 00:31:26.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no se van a unir más
+[03Apr2025 00:31:30.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> o tan probando nomá?
+[03Apr2025 00:31:32.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> el jefte
+[03Apr2025 00:31:35.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> q el ql
+[03Apr2025 00:31:41.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> no se le bugueo al wea
+[03Apr2025 00:31:45.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wtf
+[03Apr2025 00:31:45.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> el ethan no sabemos q onda
+[03Apr2025 00:31:53.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ta rip
+[03Apr2025 00:31:55.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> y a la kishy le tengo q ensennar como configurar la wea
+[03Apr2025 00:32:03.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> DAMN!!!!!!
+[03Apr2025 00:32:17.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> Igual para aprovechar bien las horas podríamos coordinar una hora
+[03Apr2025 00:32:21.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pa q todos se unan
+[03Apr2025 00:32:22.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> digo yo
+[03Apr2025 00:33:27.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Stone Age]
+[03Apr2025 00:33:36.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Getting an Upgrade]
+[03Apr2025 00:33:55.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> SE
+[03Apr2025 00:34:01.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> despues de las 9 app?
+[03Apr2025 00:34:02.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> hacemo eso siono
+[03Apr2025 00:34:05.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis
+[03Apr2025 00:34:15.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> uigual también depende de los dmeás cabro
+[03Apr2025 00:34:17.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> s
+[03Apr2025 00:35:19.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> oal
+[03Apr2025 00:36:51.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Monster Hunter]
+[03Apr2025 00:36:53.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 burned to death
+[03Apr2025 00:36:56.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=71, y=78, z=54}
+[03Apr2025 00:37:10.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Is this... blood?]
+[03Apr2025 00:37:39.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [Monster Hunter]
+[03Apr2025 00:38:42.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Bloodthirsty]
+[03Apr2025 00:39:27.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Monster Hunter]
+[03Apr2025 00:40:15.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Stone Age]
+[03Apr2025 00:40:57.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Getting an Upgrade]
+[03Apr2025 00:42:36.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Mine? Mine? Mine?]
+[03Apr2025 00:43:05.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Is this... blood?]
+[03Apr2025 00:44:41.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Mine? Mine? Mine?]
+[03Apr2025 00:44:54.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Alex's Mobs]
+[03Apr2025 00:45:19.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Acquire Hardware]
