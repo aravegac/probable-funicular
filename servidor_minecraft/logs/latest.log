@@ -218,3 +218,143 @@
 [03Apr2025 01:13:03.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=67, y=74, z=36}
 [03Apr2025 01:14:19.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported sebax401 to Matelunaaa]
 [03Apr2025 01:16:15.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys has made the advancement [A Seedy Place]
+[03Apr2025 01:18:17.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ya tengo pescao
+[03Apr2025 01:19:02.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> yap
+[03Apr2025 01:19:49.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> onde ta
+[03Apr2025 01:20:28.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys has made the advancement [Sweet Dreams]
+[03Apr2025 01:20:35.370] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/15511, l='ServerLevel[world]', x=-346.70, y=96.00, z=345.14] died, message: 'Farmer was slain by Zombie'
+[03Apr2025 01:20:35.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebax401 lost connection: Disconnected
+[03Apr2025 01:20:35.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 left the game
+[03Apr2025 01:21:07.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sebax401[/127.151.35.132:48697] logged in with entity id 29885 at (-420.1731301990731, 93.0, 39.44842785958219)
+[03Apr2025 01:21:07.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 joined the game
+[03Apr2025 01:21:24.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ya
+[03Apr2025 01:21:26.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys has made the advancement [Getting an Upgrade]
+[03Apr2025 01:21:30.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> hagamos las casas
+[03Apr2025 01:21:31.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> en el
+[03Apr2025 01:21:38.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> prado
+[03Apr2025 01:21:46.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> donde está plano?
+[03Apr2025 01:21:52.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> Im coming
+[03Apr2025 01:22:16.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [The Parrots and the Bats]
+[03Apr2025 01:23:18.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> se necesita cuero para las mochilas
+[03Apr2025 01:23:21.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> es un sacrificio digno
+[03Apr2025 01:23:22.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> jeje
+[03Apr2025 01:23:24.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> ta el hijo
+[03Apr2025 01:23:28.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> truye true
+[03Apr2025 01:23:36.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> habrá q
+[03Apr2025 01:23:45.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> esperar
+[03Apr2025 01:23:48.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> namás
+[03Apr2025 01:23:53.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> si pobrecito
+[03Apr2025 01:24:04.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-349, y=93, z=126} BlockPos{x=-350, y=92, z=126}
+[03Apr2025 01:24:04.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-349, y=93, z=126} BlockPos{x=-350, y=92, z=126}
+[03Apr2025 01:24:04.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-349, y=93, z=126} BlockPos{x=-350, y=92, z=126}
+[03Apr2025 01:24:09.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kishyys lost connection: Disconnected
+[03Apr2025 01:24:09.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys left the game
+[03Apr2025 01:24:16.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Chompy]
+[03Apr2025 01:24:31.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 was slain by Crocodile
+[03Apr2025 01:24:53.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> en 8 entra d enuevo
+[03Apr2025 01:25:02.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> dale
+[03Apr2025 01:32:15.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> DUERMAN
+[03Apr2025 01:32:17.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Sweet Dreams]
+[03Apr2025 01:32:28.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> Xd
+[03Apr2025 01:32:33.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ZOMBIE CTM
+[03Apr2025 01:32:39.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> XDDDD
+[03Apr2025 01:33:42.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-390, y=95, z=133} BlockPos{x=-390, y=93, z=134}
+[03Apr2025 01:34:49.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> -379 / 120 / 93
+[03Apr2025 01:34:55.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> esos son las coords de la planicie
+[03Apr2025 01:35:08.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> DALE
+[03Apr2025 01:37:53.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-343, y=92, z=143} BlockPos{x=-341, y=91, z=140}
+[03Apr2025 01:37:53.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-343, y=92, z=143} BlockPos{x=-341, y=91, z=140}
+[03Apr2025 01:37:53.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-343, y=92, z=143} BlockPos{x=-341, y=91, z=140}
+[03Apr2025 01:37:53.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-342, y=91, z=144} BlockPos{x=-341, y=91, z=140}
+[03Apr2025 01:37:53.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-342, y=91, z=144} BlockPos{x=-341, y=91, z=140}
+[03Apr2025 01:37:53.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-346, y=92, z=144} BlockPos{x=-344, y=90, z=147}
+[03Apr2025 01:38:05.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-342, y=91, z=145} BlockPos{x=-342, y=90, z=144}
+[03Apr2025 01:38:05.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-342, y=91, z=145} BlockPos{x=-342, y=90, z=144}
+[03Apr2025 01:38:05.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-341, y=91, z=145} BlockPos{x=-342, y=90, z=144}
+[03Apr2025 01:38:05.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-341, y=92, z=148} BlockPos{x=-341, y=90, z=145}
+[03Apr2025 01:38:05.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-341, y=92, z=148} BlockPos{x=-341, y=90, z=145}
+[03Apr2025 01:38:05.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-341, y=91, z=149} BlockPos{x=-341, y=90, z=145}
+[03Apr2025 01:38:38.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kishyys[/127.62.243.86:47829] logged in with entity id 44350 at (-468.651388914215, 87.0, 377.04838300487836)
+[03Apr2025 01:38:38.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys joined the game
+[03Apr2025 01:38:49.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> quien me hace tp
+[03Apr2025 01:38:57.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> no
+[03Apr2025 01:39:01.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> es 1 x persona
+[03Apr2025 01:40:43.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.224.116.170:46523] logged in with entity id 46499 at (56.5, 78.0, 54.5)
+[03Apr2025 01:40:43.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[03Apr2025 01:40:43.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Ice and Fire]
+[03Apr2025 01:42:01.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> SE ME olvidó cmo ponerme la mochila la concha
+[03Apr2025 01:42:07.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> XD
+[03Apr2025 01:42:12.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> b
+[03Apr2025 01:42:14.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-339, y=91, z=150} BlockPos{x=-337, y=90, z=150}
+[03Apr2025 01:43:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ZZZZZZZZZZZ
+[03Apr2025 01:43:29.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> zzzzzzzzzzzzz
+[03Apr2025 01:43:33.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys was slain by Ghost
+[03Apr2025 01:43:46.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> jajajajajajajajajajajajajajajaj
+[03Apr2025 01:43:54.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> abri un cofrew y salio el wn
+[03Apr2025 01:43:58.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wtf
+[03Apr2025 01:44:06.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Disconnected
+[03Apr2025 01:44:06.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[03Apr2025 01:44:11.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> es de las tumbas
+[03Apr2025 01:44:20.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ay cabron
+[03Apr2025 01:44:22.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> sis
+[03Apr2025 01:44:23.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported kishyys to Matelunaaa]
+[03Apr2025 01:44:45.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15410, l='ServerLevel[world]', x=-360.36, y=91.00, z=290.50] died, message: 'Villager was slain by Zombie'
+[03Apr2025 01:46:41.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> un perrooooooooooooooo
+[03Apr2025 01:46:49.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kishyys lost connection: Disconnected
+[03Apr2025 01:46:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys left the game
+[03Apr2025 01:49:02.644] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4bb2b12d[id=<null>,name=KidGore6,properties={},legacy=false] (/127.224.116.170:56807) lost connection: Disconnected
+[03Apr2025 01:49:10.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.224.116.170:33313] logged in with entity id 55132 at (29.28943379392245, 72.0, 41.67412024229307)
+[03Apr2025 01:49:10.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[03Apr2025 01:49:41.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Timed out
+[03Apr2025 01:49:41.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[03Apr2025 01:50:08.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.224.116.170:53821] logged in with entity id 55961 at (11.70305548175411, 72.0, 67.37795169126693)
+[03Apr2025 01:50:08.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[03Apr2025 01:50:29.831] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@259a8d6e[id=<null>,name=kishyys,properties={},legacy=false] (/127.62.243.86:37343) lost connection: Disconnected
+[03Apr2025 01:50:37.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kishyys[/127.62.243.86:35251] logged in with entity id 56485 at (-623.7188759255466, 113.16610926093821, 281.41441915021636)
+[03Apr2025 01:50:37.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys joined the game
+[03Apr2025 01:51:14.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[03Apr2025 01:51:17.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 was kicked for floating too long!
+[03Apr2025 01:51:17.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Flying is not enabled on this server
+[03Apr2025 01:51:17.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[03Apr2025 01:51:27.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.224.116.170:59949] logged in with entity id 57693 at (-335.79885444168514, 91.0, 147.54510966080022)
+[03Apr2025 01:51:27.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[03Apr2025 01:51:57.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Timed out
+[03Apr2025 01:51:57.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[03Apr2025 01:52:15.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.224.116.170:45175] logged in with entity id 58387 at (-335.79885444168514, 91.0, 147.54510966080022)
+[03Apr2025 01:52:15.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[03Apr2025 01:52:45.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Timed out
+[03Apr2025 01:52:45.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[03Apr2025 01:53:14.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys has made the advancement [Who You Gonna Call?]
+[03Apr2025 01:53:17.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys withered away
+[03Apr2025 01:53:37.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.224.116.170:47857] logged in with entity id 59229 at (-335.79885444168514, 91.0, 147.54510966080022)
+[03Apr2025 01:53:37.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[03Apr2025 01:53:40.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> mate el fantasma y mori por una flor negra
+[03Apr2025 01:53:46.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> XD
+[03Apr2025 01:53:52.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> guatafac
+[03Apr2025 01:53:55.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> jajajajajajajajajajajajajajajaj
+[03Apr2025 01:54:06.520] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Disconnected
+[03Apr2025 01:54:06.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[03Apr2025 01:54:43.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys has made the advancement [Is this... blood?]
+[03Apr2025 01:54:44.375] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.224.116.170:60787] logged in with entity id 59720 at (-335.79885444168514, 91.0, 147.54510966080022)
+[03Apr2025 01:54:44.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[03Apr2025 01:54:44.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Bloodthirsty]
+[03Apr2025 01:55:14.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Timed out
+[03Apr2025 01:55:14.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[03Apr2025 01:55:36.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 was slain by Matelunaaa
+[03Apr2025 01:55:47.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> cagaste
+[03Apr2025 01:56:02.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> es trampa
+[03Apr2025 01:56:05.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> NO TENIA NA
+[03Apr2025 01:56:14.368] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34573, l='ServerLevel[world]', x=-373.30, y=90.00, z=353.63] died, message: 'Villager was slain by Zombie'
+[03Apr2025 01:56:18.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> zzz
+[03Apr2025 01:56:39.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> el r3xyzzz
+[03Apr2025 01:56:40.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ya viene
+[03Apr2025 01:56:57.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> voy por esa flor negra ql
+[03Apr2025 01:57:06.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> porfavor kishy serias tan amable de devolverme mis cosas
+[03Apr2025 01:57:17.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> onde tay
+[03Apr2025 01:57:41.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.224.116.170:35051] logged in with entity id 60836 at (-335.79885444168514, 91.0, 147.54510966080022)
+[03Apr2025 01:57:41.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[03Apr2025 01:57:51.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> muchas gracias
+[03Apr2025 01:57:54.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> t robo la d madera
+[03Apr2025 01:58:04.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> dale nomas quedatela
+[03Apr2025 01:58:11.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Timed out
+[03Apr2025 01:58:11.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
