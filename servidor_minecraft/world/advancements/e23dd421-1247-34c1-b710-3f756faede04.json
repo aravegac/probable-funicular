@@ -609,6 +609,12 @@
     },
     "done": true
   },
+  "crafting:rawblocksmelt": {
+    "criteria": {
+      "rawblocksmelt_0": "2025-04-03 02:36:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-03 01:33:18 +0000"
@@ -678,6 +684,12 @@
   "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-04-03 00:53:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 02:34:52 +0000"
     },
     "done": true
   },
@@ -849,6 +861,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 02:34:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-03 00:53:26 +0000"
@@ -984,6 +1002,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 02:34:52 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-04-03 01:10:30 +0000"
@@ -1101,6 +1125,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-03 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 02:34:52 +0000"
     },
     "done": true
   },
@@ -1224,6 +1254,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 02:34:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-03 00:53:26 +0000"
@@ -1245,6 +1281,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-03 01:33:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/smoker_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 02:34:52 +0000"
     },
     "done": true
   },
@@ -1281,6 +1323,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-03 01:34:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 02:34:52 +0000"
     },
     "done": true
   },
@@ -1350,6 +1398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-03 02:36:53 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-04-03 00:53:26 +0000"
@@ -1359,6 +1413,12 @@
   "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-04-03 00:53:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/furnace_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 02:34:52 +0000"
     },
     "done": true
   },
@@ -1377,6 +1437,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-04-03 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 02:34:52 +0000"
     },
     "done": true
   },
@@ -1419,6 +1485,12 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2025-04-03 01:15:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 02:34:52 +0000"
     },
     "done": true
   },
@@ -1551,6 +1623,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-03 01:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-03 02:36:53 +0000"
     },
     "done": true
   },
