@@ -501,6 +501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-03 02:43:13 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-04-03 00:44:54 +0000"
@@ -594,6 +600,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-03 00:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-03 02:43:13 +0000"
     },
     "done": true
   },
@@ -871,6 +883,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-03 02:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-03 02:16:20 +0000"
@@ -1093,6 +1111,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:panda": "2025-04-03 02:39:00 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-04-03 02:25:00 +0000"
@@ -1120,6 +1144,12 @@
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-04-03 00:58:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-03 02:48:32 +0000"
     },
     "done": true
   },
@@ -1156,6 +1186,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-04-03 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-04-03 02:43:13 +0000"
     },
     "done": true
   },
@@ -1345,7 +1381,8 @@
       "cooked_mutton": "2025-04-03 00:39:52 +0000",
       "cooked_beef": "2025-04-03 00:34:48 +0000",
       "apple": "2025-04-03 00:37:35 +0000",
-      "bread": "2025-04-03 01:14:36 +0000"
+      "bread": "2025-04-03 01:14:36 +0000",
+      "cooked_chicken": "2025-04-03 02:44:13 +0000"
     },
     "done": false
   },
