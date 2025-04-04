@@ -550,6 +550,7 @@
       "minecraft:skeleton": "2025-04-03 00:57:11 +0000",
       "minecraft:spider": "2025-04-03 01:57:28 +0000",
       "minecraft:creeper": "2025-04-04 02:21:07 +0000",
+      "minecraft:stray": "2025-04-04 03:11:57 +0000",
       "minecraft:zombie": "2025-04-03 01:21:01 +0000",
       "minecraft:drowned": "2025-04-03 00:37:39 +0000"
     },
@@ -1719,6 +1720,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-04-04 03:14:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 01:53:06 +0000"
@@ -1887,9 +1894,27 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2025-04-04 03:14:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 01:53:06 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
+    "criteria": {
+      "has_cloth": "2025-04-04 03:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-04 03:10:04 +0000"
     },
     "done": true
   },
@@ -1917,6 +1942,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/bandage_golden": {
+    "criteria": {
+      "has_bandage": "2025-04-04 03:14:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-04-04 02:21:08 +0000"
@@ -1932,6 +1963,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-04 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2025-04-04 03:14:51 +0000"
     },
     "done": true
   },
