@@ -303,3 +303,19 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [04Apr2025 02:37:53.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> no
 [04Apr2025 02:38:09.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> hacete una po
 [04Apr2025 02:38:13.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> si tiene cama incluido
+[04Apr2025 02:44:43.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-478, y=120, z=512} BlockPos{x=-477, y=118, z=511}
+[04Apr2025 02:48:50.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ola
+[04Apr2025 02:48:52.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> OPL.A
+[04Apr2025 02:48:54.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ola
+[04Apr2025 02:48:59.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> ika
+[04Apr2025 02:49:02.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> ola
+[04Apr2025 02:49:03.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> i need food
+[04Apr2025 02:49:11.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> que wea dijiste de mi mama
+[04Apr2025 02:49:18.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> Xdd
+[04Apr2025 02:49:18.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> you take food of yours chests?
+[04Apr2025 02:49:47.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> thanks
+[04Apr2025 02:49:49.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> my friend
+[04Apr2025 02:49:53.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis
+[04Apr2025 02:55:25.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Isn't It Iron Pick]
+[04Apr2025 02:58:58.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Disconnected
+[04Apr2025 02:58:58.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game

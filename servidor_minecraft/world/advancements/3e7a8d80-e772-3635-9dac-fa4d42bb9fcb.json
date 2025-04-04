@@ -539,6 +539,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-03 00:42:34 +0000",
       "cooked_mutton": "2025-04-04 01:51:33 +0000",
+      "cooked_beef": "2025-04-04 02:53:47 +0000",
       "apple": "2025-04-03 01:16:41 +0000",
       "melon_slice": "2025-04-03 01:08:31 +0000",
       "cooked_chicken": "2025-04-03 00:48:34 +0000"
@@ -1214,6 +1215,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-04 02:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-04 02:55:25 +0000"
     },
     "done": true
   },
