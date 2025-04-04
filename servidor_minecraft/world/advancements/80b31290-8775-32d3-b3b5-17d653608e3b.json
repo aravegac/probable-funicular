@@ -221,6 +221,7 @@
       "cooked_porkchop": "2025-04-03 01:15:56 +0000",
       "mutton": "2025-04-03 01:59:20 +0000",
       "bread": "2025-04-03 01:40:58 +0000",
+      "salmon": "2025-04-03 02:56:43 +0000",
       "melon_slice": "2025-04-03 01:57:01 +0000"
     },
     "done": false
@@ -375,6 +376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-04-03 02:57:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-03 01:55:41 +0000"
@@ -426,6 +433,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-03 01:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-04-03 02:57:33 +0000"
     },
     "done": true
   },
@@ -486,6 +499,18 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-04-03 01:55:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-04-03 02:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-04-03 02:57:33 +0000"
     },
     "done": true
   },
