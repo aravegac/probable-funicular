@@ -265,3 +265,28 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [04Apr2025 02:08:09.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> gulp
 [04Apr2025 02:08:09.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Boneyard]
 [04Apr2025 02:08:18.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Boneyard]
+[04Apr2025 02:12:46.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: r3xyzz[/127.243.114.185:33029] logged in with entity id 13900 at (-251.30000001192093, 143.0, 272.7172446661087)
+[04Apr2025 02:12:46.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz joined the game
+[04Apr2025 02:12:51.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> oal
+[04Apr2025 02:12:54.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> buenas
+[04Apr2025 02:13:01.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to r3xyzz]
+[04Apr2025 02:13:04.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> puta llego el ethan
+[04Apr2025 02:13:07.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3xyzz moved too quickly! 315.80000001192093,-50.0,-223.80000001192093
+[04Apr2025 02:13:13.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> aún no se te ve la skin?
+[04Apr2025 02:18:02.062] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3xyzz lost connection: Disconnected
+[04Apr2025 02:18:02.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz left the game
+[04Apr2025 02:20:30.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: r3xyzz[/127.243.114.185:43473] logged in with entity id 18662 at (-252.20948064564612, 143.0, 272.5686742748216)
+[04Apr2025 02:20:30.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz joined the game
+[04Apr2025 02:20:46.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3xyzz lost connection: Disconnected
+[04Apr2025 02:20:46.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz left the game
+[04Apr2025 02:24:08.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 was slain by Zombie
+[04Apr2025 02:24:20.648] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/445, l='ServerLevel[world]', x=-409.80, y=94.50, z=297.70] died, message: 'Scribe hit the ground too hard'
+[04Apr2025 02:26:35.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 was slain by Matelunaaa
+[04Apr2025 02:27:02.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to KidGore6]
+[04Apr2025 02:27:27.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Not Today, Thank You]
+[04Apr2025 02:27:35.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: r3xyzz[/127.243.114.185:37537] logged in with entity id 20980 at (-252.20948064564612, 143.0, 272.5686742748216)
+[04Apr2025 02:27:35.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz joined the game
+[04Apr2025 02:27:44.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to r3xyzz]
+[04Apr2025 02:27:55.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3xyzz moved too quickly! 316.1891105479612,-50.0,-223.80000001192093
+[04Apr2025 02:27:59.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3xyzz lost connection: Disconnected
+[04Apr2025 02:27:59.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz left the game

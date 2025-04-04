@@ -548,6 +548,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-03 00:57:11 +0000",
       "minecraft:spider": "2025-04-03 01:57:28 +0000",
+      "minecraft:creeper": "2025-04-04 02:21:07 +0000",
       "minecraft:zombie": "2025-04-03 01:21:01 +0000",
       "minecraft:drowned": "2025-04-03 00:37:39 +0000"
     },
@@ -1741,6 +1742,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2025-04-04 02:08:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-04-04 01:49:36 +0000"
@@ -1750,6 +1757,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-04 01:56:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-04-04 02:21:08 +0000"
     },
     "done": true
   },
@@ -1843,6 +1856,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-04-04 02:04:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 01:53:06 +0000"
@@ -1885,9 +1904,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-04 02:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 01:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-04 02:21:08 +0000"
     },
     "done": true
   },
