@@ -7,3 +7,29 @@
 [05Apr2025 00:09:18.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [We Need to Go Deeper]
 [05Apr2025 00:09:25.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz has made the advancement [Boneyard]
 [05Apr2025 00:11:14.499] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/277, l='ServerLevel[world]', x=-375.50, y=97.00, z=313.93] died, message: 'Villager was slain by Zombie'
+[05Apr2025 00:17:04.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [We Need to Go Deeper]
+[05Apr2025 00:17:34.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Disconnected
+[05Apr2025 00:17:34.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[05Apr2025 00:17:34.440] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Apr2025 00:17:47.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.60.37.225:54701] logged in with entity id 29548 at (-45.99128358926771, 97.0, 14.5)
+[05Apr2025 00:17:47.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[05Apr2025 00:18:24.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [We Need to Go Deeper]
+[05Apr2025 00:18:56.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> no me hagas nada
+[05Apr2025 00:19:01.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> :(
+[05Apr2025 00:19:24.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> no te sobra una mochila?+
+[05Apr2025 00:19:27.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> mm verda
+[05Apr2025 00:19:29.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis
+[05Apr2025 00:19:31.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> si me sobra
+[05Apr2025 00:19:33.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> aunq
+[05Apr2025 00:19:34.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> la vera
+[05Apr2025 00:19:38.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> podría ahcer mochilas pa todos
+[05Apr2025 00:19:59.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> así se ahorran la paja
+[05Apr2025 00:20:03.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Timed out
+[05Apr2025 00:20:03.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[05Apr2025 00:20:30.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.60.37.225:45899] logged in with entity id 32175 at (-362.77737257561796, 93.0, 109.5)
+[05Apr2025 00:20:30.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[05Apr2025 00:20:35.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> necesitaría cuero eso si
+[05Apr2025 00:23:18.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> como se colocaba?
+[05Apr2025 00:23:21.150] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/2820, l='ServerLevel[world]', x=-419.70, y=86.54, z=352.19] died, message: 'Farmer bled to death'
+[05Apr2025 00:23:29.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> mira en el chat del server
+[05Apr2025 00:23:51.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> wenaaaa

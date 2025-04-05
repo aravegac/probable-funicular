@@ -379,6 +379,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-04 23:45:06 +0000",
       "minecraft:spider": "2025-04-03 02:25:59 +0000",
+      "minecraft:witch": "2025-04-05 00:18:56 +0000",
       "minecraft:zombie": "2025-04-04 23:45:18 +0000"
     },
     "done": false
@@ -464,7 +465,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-04-03 02:28:05 +0000",
-      "bread": "2025-04-03 02:34:09 +0000"
+      "bread": "2025-04-03 02:34:09 +0000",
+      "cooked_chicken": "2025-04-05 00:22:58 +0000"
     },
     "done": false
   },
@@ -708,6 +710,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-04-05 00:18:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-04 23:36:34 +0000"
@@ -930,6 +938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-05 00:18:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-04-04 23:36:49 +0000"
@@ -939,6 +953,24 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-04-04 23:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-05 00:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-05 00:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-05 00:18:57 +0000"
     },
     "done": true
   },
