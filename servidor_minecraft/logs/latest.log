@@ -112,3 +112,22 @@
 [05Apr2025 00:56:49.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
 [05Apr2025 00:57:19.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Timed out
 [05Apr2025 00:57:19.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[05Apr2025 00:58:08.856] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e3ae1c3[id=<null>,name=KidGore6,properties={},legacy=false] (/127.60.37.225:52379) lost connection: Disconnected
+[05Apr2025 00:58:17.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.60.37.225:37853] logged in with entity id 14833 at (-141.59859064945414, -50.0, 256.03683011522213)
+[05Apr2025 00:58:17.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[05Apr2025 00:58:47.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Timed out
+[05Apr2025 00:58:47.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[05Apr2025 01:00:26.308] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.60.37.225:55535] logged in with entity id 15954 at (-141.59859064945414, -50.0, 256.03683011522213)
+[05Apr2025 01:00:26.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[05Apr2025 01:00:56.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Timed out
+[05Apr2025 01:00:56.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[05Apr2025 01:02:01.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.60.37.225:33343] logged in with entity id 16741 at (-141.59859064945414, -50.0, 256.03683011522213)
+[05Apr2025 01:02:01.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[05Apr2025 01:02:10.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> tradeo Switc snake
+[05Apr2025 01:02:13.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> sneak
+[05Apr2025 01:02:14.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> 3
+[05Apr2025 01:02:29.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> Te doy 2 de tierra
+[05Apr2025 01:02:31.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Timed out
+[05Apr2025 01:02:31.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[05Apr2025 01:03:19.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.60.37.225:34121] logged in with entity id 17323 at (-141.59859064945414, -50.0, 256.03683011522213)
+[05Apr2025 01:03:19.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
