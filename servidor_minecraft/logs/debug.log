@@ -2856,3 +2856,59 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Apr2025 23:42:27.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pq igual me serviría jeje
 [04Apr2025 23:42:56.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> araceli hay algun mod o plugin para poner tp a todos ?
 [04Apr2025 23:43:02.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> tipo TPA ?
+[04Apr2025 23:43:28.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no q usabamos uno en el server anterior
+[04Apr2025 23:43:32.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> se me olvidó agregar ese
+[04Apr2025 23:43:32.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> si
+[04Apr2025 23:43:34.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ay cabron
+[04Apr2025 23:43:41.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Apr2025 23:43:41.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Apr2025 23:43:42.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> de ahi vemo
+[04Apr2025 23:44:11.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis
+[04Apr2025 23:44:19.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> por mientras digan a quien hago tp a quien y eso
+[04Apr2025 23:44:20.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> o al mate
+[04Apr2025 23:44:29.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> gulp
+[04Apr2025 23:45:21.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz has made the advancement [Is this... blood?]
+[04Apr2025 23:45:24.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> o_o
+[04Apr2025 23:45:27.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ay cabron
+[04Apr2025 23:45:36.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> xd
+[04Apr2025 23:45:39.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> adios
+[04Apr2025 23:48:41.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Apr2025 23:48:41.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Apr2025 23:48:49.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Diamonds!]
+[04Apr2025 23:49:19.009] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/190, l='ServerLevel[world]', x=-357.95, y=91.00, z=297.06] died, message: 'Villager was slain by Zombie'
+[04Apr2025 23:50:47.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 was shot by Skeleton
+[04Apr2025 23:53:17.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> me tepeas ara
+[04Apr2025 23:53:26.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> NO
+[04Apr2025 23:53:33.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> tamno en mediod e una guerral ol
+[04Apr2025 23:53:36.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz has made the advancement [Spooky Scary Army]
+[04Apr2025 23:53:39.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ahi
+[04Apr2025 23:53:41.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Apr2025 23:53:41.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Apr2025 23:53:44.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> ya no
+[04Apr2025 23:53:48.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> o_O
+[04Apr2025 23:53:50.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> ara para ayudar
+[04Apr2025 23:53:55.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> seguire minando
+[04Apr2025 23:53:57.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ah weno
+[04Apr2025 23:55:34.386] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[04Apr2025 23:55:35.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [We Need to Go Deeper]
+[04Apr2025 23:55:36.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[04Apr2025 23:55:44.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ay cabron
+[04Apr2025 23:56:20.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Sneak 100]
+[04Apr2025 23:57:38.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 fell from a high place
+[04Apr2025 23:58:43.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Apr2025 23:58:43.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 00:00:39.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 drowned
+[05Apr2025 00:03:43.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 00:03:43.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 00:04:48.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 fell from a high place
+[05Apr2025 00:06:38.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere was doomed to fall by Tank
+[05Apr2025 00:06:38.764] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cakeyshere with unique ID travelersbackpack.standard_05.04.2025-00.06.38.dat
+[05Apr2025 00:08:43.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 00:08:43.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 00:08:48.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 was doomed to fall by Zombie
+[05Apr2025 00:09:09.709] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['KidGore6'/25019, l='ServerLevel[world]', x=-254.63, y=31.42, z=158.37] died: KidGore6 was slain by Matelunaaa
+[05Apr2025 00:09:18.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [We Need to Go Deeper]
+[05Apr2025 00:09:25.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz has made the advancement [Boneyard]
+[05Apr2025 00:11:14.499] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/277, l='ServerLevel[world]', x=-375.50, y=97.00, z=313.93] died, message: 'Villager was slain by Zombie'
+[05Apr2025 00:13:43.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 00:13:43.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
