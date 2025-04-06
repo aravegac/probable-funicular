@@ -553,6 +553,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-06 02:06:55 +0000",
       "minecraft:skeleton": "2025-04-03 00:57:11 +0000",
       "minecraft:spider": "2025-04-03 01:57:28 +0000",
       "minecraft:creeper": "2025-04-04 02:21:07 +0000",
@@ -2746,6 +2747,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-04-06 01:47:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-04-06 02:03:00 +0000"
     },
     "done": true
   },
