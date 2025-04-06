@@ -2285,7 +2285,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-04-04 23:55:36 +0000"
+      "minecraft:crimson_forest": "2025-04-04 23:55:36 +0000",
+      "minecraft:warped_forest": "2025-04-06 03:00:34 +0000"
     },
     "done": false
   },
@@ -3594,6 +3595,12 @@
   "iceandfire:recipes/combat/armor_copper_leggings": {
     "criteria": {
       "has_item": "2025-04-06 02:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-06 03:01:28 +0000"
     },
     "done": true
   },
