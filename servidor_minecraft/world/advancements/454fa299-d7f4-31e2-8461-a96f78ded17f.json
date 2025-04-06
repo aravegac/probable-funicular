@@ -464,6 +464,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-06 01:50:28 +0000",
       "apple": "2025-04-03 02:28:05 +0000",
       "bread": "2025-04-03 02:34:09 +0000",
       "cooked_chicken": "2025-04-05 00:22:58 +0000"
@@ -1193,6 +1194,12 @@
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-04-06 01:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-06 01:49:57 +0000"
     },
     "done": true
   },

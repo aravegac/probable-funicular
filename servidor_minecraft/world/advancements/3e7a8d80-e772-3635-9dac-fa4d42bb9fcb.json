@@ -2876,6 +2876,36 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-04-06 00:53:12 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-04-06 01:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-06 01:28:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-04-06 01:28:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-04-06 01:28:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-04-06 01:28:49 +0000"
@@ -2888,33 +2918,15 @@
     },
     "done": true
   },
-  "majruszsdifficulty:creeperling": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "encountered_creeperling": "2025-04-06 01:02:01 +0000"
+      "has_flint": "2025-04-06 01:43:30 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ghost_chest": {
+  "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
-      "has_item": "2025-04-06 01:28:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-04-06 01:28:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/graveyard_soil": {
-    "criteria": {
-      "has_item": "2025-04-06 01:28:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_staff": {
-    "criteria": {
-      "bestiary": "2025-04-06 00:53:12 +0000"
+      "has_gravel": "2025-04-06 01:44:35 +0000"
     },
     "done": true
   },
