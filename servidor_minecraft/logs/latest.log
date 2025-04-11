@@ -250,3 +250,5 @@
 [11Apr2025 22:14:37.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> a tu quieres hacer una granja de mobs
 [11Apr2025 22:14:40.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> algo asi?
 [11Apr2025 22:14:44.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis eso
+[11Apr2025 22:40:27.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-342, y=95, z=326} BlockPos{x=-339, y=94, z=326}
+[11Apr2025 22:40:27.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-342, y=95, z=326} BlockPos{x=-339, y=94, z=326}
