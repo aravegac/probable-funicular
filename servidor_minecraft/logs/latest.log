@@ -1029,3 +1029,32 @@
 [11Apr2025 03:12:45.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [11Apr2025 03:12:58.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 was blown up by Creeper
 [11Apr2025 03:13:07.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
+[11Apr2025 03:13:31.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[11Apr2025 03:13:38.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to kishyys]
+[11Apr2025 03:14:14.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set the time to 1000]
+[11Apr2025 03:14:36.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Apr2025 03:14:37.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Apr2025 03:14:41.071] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Apr2025 03:15:24.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Alex's Mobs]
+[11Apr2025 03:15:27.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11Apr2025 03:15:44.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[11Apr2025 03:16:07.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[11Apr2025 03:16:26.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[11Apr2025 03:16:45.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4150ms or 83 ticks behind
+[11Apr2025 03:17:04.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3841ms or 76 ticks behind
+[11Apr2025 03:17:41.431] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/62831, l='ServerLevel[world]', x=-183.36, y=61.00, z=-2784.18]
+[11Apr2025 03:17:41.432] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/62832, l='ServerLevel[world]', x=-184.93, y=60.38, z=-2785.18]
+[11Apr2025 03:18:21.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> piramide gigante
+[11Apr2025 03:18:31.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> cords ?
+[11Apr2025 03:18:33.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[11Apr2025 03:18:40.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> y eso como c ve
+[11Apr2025 03:18:59.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Sea? Not a Problem]
+[11Apr2025 03:19:28.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11Apr2025 03:20:08.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys has made the advancement [Would you Like to Know More?]
+[11Apr2025 03:20:20.266] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Apr2025 03:20:29.230] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Apr2025 03:20:57.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[11Apr2025 03:21:05.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [The Desert Swimmers]
+[11Apr2025 03:21:05.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has completed the challenge [It Spreads]
+[11Apr2025 03:23:24.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Its Like Printing my Own Money!]
+[11Apr2025 03:23:28.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [The Only Good Bug...]
