@@ -251,6 +251,7 @@
       "minecraft:skeleton": "2025-04-04 01:38:57 +0000",
       "minecraft:hoglin": "2025-04-05 00:18:31 +0000",
       "minecraft:spider": "2025-04-04 02:25:35 +0000",
+      "minecraft:wither_skeleton": "2025-04-11 21:56:46 +0000",
       "minecraft:husk": "2025-04-04 03:11:32 +0000",
       "minecraft:stray": "2025-04-11 21:53:53 +0000",
       "minecraft:zombie": "2025-04-04 02:01:59 +0000"
@@ -3199,6 +3200,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-11 21:55:37 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-04-11 21:34:13 +0000"
@@ -3238,6 +3245,12 @@
   "travelersbackpack:recipes/misc/tanks_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-04-11 21:34:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-11 21:57:00 +0000"
     },
     "done": true
   },
@@ -3397,6 +3410,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-11 21:57:00 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed_by": "2025-04-11 21:49:07 +0000"
@@ -3490,6 +3509,18 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-04-11 20:48:08 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage_golden": {
+    "criteria": {
+      "has_bandage": "2025-04-11 22:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-11 21:57:00 +0000"
     },
     "done": true
   },
