@@ -252,6 +252,7 @@
       "minecraft:hoglin": "2025-04-05 00:18:31 +0000",
       "minecraft:spider": "2025-04-04 02:25:35 +0000",
       "minecraft:husk": "2025-04-04 03:11:32 +0000",
+      "minecraft:stray": "2025-04-11 21:53:53 +0000",
       "minecraft:zombie": "2025-04-04 02:01:59 +0000"
     },
     "done": false
@@ -3180,6 +3181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-11 21:43:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-04-11 20:04:03 +0000"
@@ -3213,6 +3220,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-04-11 20:48:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-04-11 21:47:56 +0000"
     },
     "done": true
   },
@@ -3336,6 +3349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-11 21:44:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-04-11 20:48:08 +0000"
@@ -3378,6 +3397,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-04-11 21:49:07 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-04-11 21:34:13 +0000"
@@ -3402,6 +3427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-11 21:43:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-04-11 21:20:28 +0000"
@@ -3417,6 +3448,12 @@
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-04-11 21:34:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-04-11 21:47:56 +0000"
     },
     "done": true
   },
@@ -3441,6 +3478,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-04-11 20:48:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-11 21:47:51 +0000"
     },
     "done": true
   },
