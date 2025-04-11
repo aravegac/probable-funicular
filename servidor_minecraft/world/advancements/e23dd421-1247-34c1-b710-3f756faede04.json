@@ -3761,9 +3761,27 @@
     },
     "done": true
   },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-04-11 20:36:26 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skreecher": {
     "criteria": {
       "killed": "2025-04-11 20:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-04-11 20:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-04-11 20:37:13 +0000"
     },
     "done": true
   },
