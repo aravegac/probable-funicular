@@ -46,6 +46,7 @@
       "minecraft:desert": "2025-04-06 01:31:32 +0000",
       "minecraft:jungle": "2025-04-06 01:19:32 +0000",
       "minecraft:ocean": "2025-04-06 01:07:36 +0000",
+      "minecraft:deep_dark": "2025-04-11 19:47:08 +0000",
       "minecraft:savanna": "2025-04-03 00:57:10 +0000",
       "minecraft:plains": "2025-04-01 00:06:57 +0000"
     },
@@ -2638,117 +2639,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_terracotta": {
+  "travelersbackpack:recipes/misc/wither": {
     "criteria": {
-      "has_terracotta": "2025-04-06 02:24:15 +0000"
+      "has_wither_skeleton_skull": "2025-04-06 00:33:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "has_terracotta": "2025-04-06 02:24:15 +0000"
+      "wither_skull": "2025-04-06 00:33:56 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_helmet": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "has_item": "2025-04-06 02:25:46 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_white_helmet": {
-    "criteria": {
-      "has_item": "2025-04-06 01:52:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
-    "criteria": {
-      "has_item": "2025-04-06 02:19:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_key_changer": {
-    "criteria": {
-      "has_redstone": "2025-04-06 01:37:50 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_white_leggings": {
-    "criteria": {
-      "has_item": "2025-04-06 01:52:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2025-04-06 02:33:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/alarm": {
-    "criteria": {
-      "has_redstone": "2025-04-06 01:37:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2025-04-06 01:21:46 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
-    "criteria": {
-      "has_obsidian": "2025-04-06 00:58:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_black_leggings": {
-    "criteria": {
-      "has_item": "2025-04-06 02:21:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
-    "criteria": {
-      "has_item": "2025-04-06 02:33:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2025-04-06 02:24:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
-    "criteria": {
-      "has_red_terracotta": "2025-04-06 02:24:16 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-06 01:22:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
-    "criteria": {
-      "has_dragonscales_copper": "2025-04-06 02:25:46 +0000"
+      "has_wither_skeleton_skull": "2025-04-06 00:33:56 +0000"
     },
     "done": true
   },
@@ -2758,93 +2663,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 02:24:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 02:24:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-06 01:08:26 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_tool": {
-    "criteria": {
-      "tool": "2025-04-06 01:18:32 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
-    "criteria": {
-      "has_redstone": "2025-04-06 01:37:50 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2025-04-06 00:58:28 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
-      "has_redstone": "2025-04-06 01:37:50 +0000"
+      "has_cobblestone": "2025-04-06 00:58:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
-      "has_tag": "2025-04-06 01:22:28 +0000"
+      "has_cobblestone": "2025-04-06 00:58:28 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
-      "has_redstone": "2025-04-06 01:37:50 +0000"
+      "has_cobblestone": "2025-04-06 00:58:28 +0000"
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
-      "diamond_boots": "2025-04-06 01:47:15 +0000"
+      "has_obsidian": "2025-04-06 00:58:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_sand": "2025-04-06 02:24:56 +0000"
+      "obsidian": "2025-04-06 00:58:38 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "has_wheat": "2025-04-06 02:03:00 +0000"
+      "has_obsidian": "2025-04-06 00:58:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/trapped_chest": {
+  "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
-      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 02:24:15 +0000"
+      "has_boat": "2025-04-06 01:08:26 +0000"
     },
     "done": true
   },
@@ -2860,21 +2723,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-04-06 01:22:28 +0000"
+      "has_boat": "2025-04-06 01:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-06 01:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-06 01:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-06 01:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-06 01:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-06 01:08:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-04-06 01:18:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-04-06 01:18:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-06 01:21:46 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-04-06 01:21:46 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_boots": {
-    "criteria": {
-      "has_item": "2025-04-06 02:25:46 +0000"
     },
     "done": true
   },
@@ -2890,183 +2795,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_deathworm": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-06 01:52:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_flute": {
-    "criteria": {
-      "has_item": "2025-04-06 02:33:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_boots": {
-    "criteria": {
-      "has_item": "2025-04-06 02:33:16 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-06 01:08:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2025-04-06 01:54:24 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_copper_ingot": "2025-04-06 01:21:46 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_piston": {
-    "criteria": {
-      "has_redstone": "2025-04-06 01:37:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 02:24:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_axe": {
-    "criteria": {
-      "has_item": "2025-04-06 02:33:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_leggings": {
-    "criteria": {
-      "has_item": "2025-04-06 02:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 02:24:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-04-06 01:22:28 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/wither": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-04-06 00:33:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_white_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-06 01:52:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 02:24:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 02:24:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
-    "criteria": {
-      "has_cobblestone": "2025-04-06 00:58:28 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/username_logger": {
-    "criteria": {
-      "has_redstone": "2025-04-06 01:37:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_lightning_dragon": "2025-04-06 02:25:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-06 01:08:26 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/chicken": {
-    "criteria": {
-      "has_feather": "2025-04-06 01:18:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-06 01:08:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/decorations/copper_pile": {
-    "criteria": {
-      "has_item": "2025-04-06 02:20:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-06 01:08:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
-    "criteria": {
-      "has_item": "2025-04-06 02:33:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_black_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-06 02:21:41 +0000"
-    },
-    "done": true
-  },
-  "globalxp:recipes/misc/xp_block": {
-    "criteria": {
-      "has_emerald": "2025-04-06 03:03:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2025-04-06 02:25:33 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
-    "criteria": {
-      "has_redstone": "2025-04-06 01:37:50 +0000"
     },
     "done": true
   },
@@ -3076,87 +2807,129 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/portable_tune_player": {
-    "criteria": {
-      "has_redstone": "2025-04-06 01:37:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2025-04-06 02:20:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-06 02:25:46 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/nest": {
-    "criteria": {
-      "has_item": "2025-04-06 02:33:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-04-06 01:08:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_white_boots": {
-    "criteria": {
-      "has_item": "2025-04-06 01:52:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-04-06 01:21:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
-      "has_boat": "2025-04-06 01:08:26 +0000"
+      "has_item": "2025-04-06 01:21:46 +0000"
     },
     "done": true
   },
-  "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
-      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
+      "has_stone_bricks": "2025-04-06 01:22:28 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonbone_bow": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
-      "has_item": "2025-04-06 02:33:07 +0000"
+      "has_tag": "2025-04-06 01:22:28 +0000"
     },
     "done": true
   },
-  "ironchest:recipes/decorations/chests/trapped_gold_chest": {
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
-      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
+      "has_mossy_stone_bricks": "2025-04-06 01:22:28 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_boots": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
-      "has_item": "2025-04-06 02:21:41 +0000"
+      "has_mossy_stone_bricks": "2025-04-06 01:22:28 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_helmet": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
-      "has_item": "2025-04-06 02:33:16 +0000"
+      "has_mossy_stone_bricks": "2025-04-06 01:22:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_terracotta": {
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
-      "has_terracotta": "2025-04-06 02:24:15 +0000"
+      "has_stone_bricks": "2025-04-06 01:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-06 01:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-06 01:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-06 01:22:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-04-06 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-04-06 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-04-06 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-04-06 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-04-06 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-04-06 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-04-06 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-04-06 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-04-06 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-04-06 01:37:50 +0000"
     },
     "done": true
   },
@@ -3178,81 +2951,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 02:24:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-04-06 00:33:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-04-06 01:22:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-06 01:22:28 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2025-04-06 02:33:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
-    "criteria": {
-      "has_dragonscales_black": "2025-04-06 02:21:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
-    "criteria": {
-      "has_dragonscales_amythest": "2025-04-06 02:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-04-06 00:58:38 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-04-06 02:40:39 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-04-06 01:37:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_andesite": {
-    "criteria": {
-      "has_cobblestone": "2025-04-06 00:58:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 02:24:15 +0000"
     },
     "done": true
   },
@@ -3262,63 +2963,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_sword": {
-    "criteria": {
-      "has_item": "2025-04-06 02:33:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_hoe": {
-    "criteria": {
-      "has_item": "2025-04-06 02:33:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 02:24:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_diorite": {
-    "criteria": {
-      "has_cobblestone": "2025-04-06 00:58:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/graveyard_soil": {
-    "criteria": {
-      "has_item": "2025-04-06 01:54:24 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-04-06 01:37:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-06 02:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-04-06 02:24:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/gorgon_head": {
-    "criteria": {
-      "bestiary": "2025-04-06 01:24:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-04-06 01:22:28 +0000"
     },
     "done": true
   },
@@ -3328,27 +2975,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
-      "has_obsidian": "2025-04-06 00:58:38 +0000"
+      "has_redstone": "2025-04-06 01:37:50 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_horn": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_item": "2025-04-06 02:33:07 +0000"
+      "diamond_boots": "2025-04-06 01:47:15 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
     "criteria": {
-      "has_item": "2025-04-06 02:25:33 +0000"
+      "has_item": "2025-04-06 01:52:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-04-06 01:22:28 +0000"
+      "has_item": "2025-04-06 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-06 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-06 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2025-04-06 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-04-06 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-04-06 01:54:24 +0000"
     },
     "done": true
   },
@@ -3358,9 +3035,189 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_leggings": {
+  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
     "criteria": {
-      "has_item": "2025-04-06 02:25:46 +0000"
+      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-06 01:57:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-04-06 02:03:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-04-06 02:19:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-04-06 02:20:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-04-06 02:20:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-04-06 02:21:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-06 02:21:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-04-06 02:21:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-04-06 02:21:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-04-06 02:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-06 02:24:15 +0000"
     },
     "done": true
   },
@@ -3376,33 +3233,531 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-04-06 00:33:56 +0000"
+      "has_red_terracotta": "2025-04-06 02:24:16 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+  "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
-      "has_item": "2025-04-06 01:21:46 +0000"
+      "has_sand": "2025-04-06 02:24:56 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/cage_trap": {
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
-      "has_redstone": "2025-04-06 01:37:50 +0000"
+      "has_orange_terracotta": "2025-04-06 02:24:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+  "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-04-06 01:22:28 +0000"
+      "killed_lightning_dragon": "2025-04-06 02:25:18 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_helmet": {
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
-      "has_item": "2025-04-06 02:21:41 +0000"
+      "has_item": "2025-04-06 02:25:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-04-06 02:25:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-04-06 02:25:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-04-06 02:25:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-04-06 02:25:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-06 02:25:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-04-06 02:25:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-04-06 02:33:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-04-06 02:33:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-04-06 02:40:39 +0000"
+    },
+    "done": true
+  },
+  "globalxp:recipes/misc/xp_block": {
+    "criteria": {
+      "has_emerald": "2025-04-06 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-04-11 19:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-11 19:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-11 19:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-11 19:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-04-11 19:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-04-11 19:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-11 19:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-04-11 19:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-11 19:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-04-11 19:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-11 19:47:33 +0000"
     },
     "done": true
   },
