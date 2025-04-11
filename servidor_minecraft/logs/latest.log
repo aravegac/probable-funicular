@@ -115,3 +115,6 @@
 [11Apr2025 20:47:10.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ahora la mitad debe dormir
 [11Apr2025 20:55:24.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-350, y=96, z=333} BlockPos{x=-348, y=96, z=333}
 [11Apr2025 20:55:24.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-350, y=96, z=333} BlockPos{x=-348, y=96, z=333}
+[11Apr2025 20:56:24.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-350, y=97, z=350} BlockPos{x=-350, y=95, z=351}
+[11Apr2025 21:03:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Apr2025 21:03:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]

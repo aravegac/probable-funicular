@@ -3032,3 +3032,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Apr2025 20:55:24.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-350, y=96, z=333} BlockPos{x=-348, y=96, z=333}
 [11Apr2025 20:55:28.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Apr2025 20:55:28.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 20:56:24.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-350, y=97, z=350} BlockPos{x=-350, y=95, z=351}
+[11Apr2025 21:00:28.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 21:00:28.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 21:03:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Apr2025 21:03:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[11Apr2025 21:05:28.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 21:05:28.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
