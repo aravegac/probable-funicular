@@ -252,3 +252,20 @@
 [11Apr2025 22:14:44.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis eso
 [11Apr2025 22:40:27.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-342, y=95, z=326} BlockPos{x=-339, y=94, z=326}
 [11Apr2025 22:40:27.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-342, y=95, z=326} BlockPos{x=-339, y=94, z=326}
+[11Apr2025 22:48:12.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=-47, z=337} BlockPos{x=-149, y=-46, z=337}
+[11Apr2025 22:48:30.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=-42, z=339} BlockPos{x=-162, y=-42, z=341}
+[11Apr2025 22:48:30.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=-42, z=339} BlockPos{x=-162, y=-42, z=341}
+[11Apr2025 22:48:57.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=-44, z=348} BlockPos{x=-158, y=-45, z=347}
+[11Apr2025 22:49:11.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=-46, z=355} BlockPos{x=-156, y=-47, z=353}
+[11Apr2025 22:49:17.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=-45, z=349} BlockPos{x=-151, y=-45, z=349}
+[11Apr2025 22:49:17.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=-45, z=349} BlockPos{x=-151, y=-45, z=349}
+[11Apr2025 22:49:17.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=-45, z=349} BlockPos{x=-151, y=-45, z=349}
+[11Apr2025 22:49:17.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-152, y=-45, z=349} BlockPos{x=-151, y=-45, z=349}
+[11Apr2025 22:49:26.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-145, y=-44, z=350} BlockPos{x=-145, y=-45, z=348}
+[11Apr2025 22:53:47.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> ara como agrego los tanques a la mochila
+[11Apr2025 22:54:15.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> cmo los tanques
+[11Apr2025 22:54:16.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wtf
+[11Apr2025 22:54:34.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> esque hay como unas cosas de vidrio para agregar a las mochilas
+[11Apr2025 22:54:38.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> AAAA
+[11Apr2025 22:54:52.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> Errmmmm creo q debes crear otra mochila jeje...
+[11Apr2025 22:54:58.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> nose si es posible agregarsela así nomás
