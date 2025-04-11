@@ -493,6 +493,7 @@
       "minecraft:witch": "2025-04-04 03:06:12 +0000",
       "minecraft:wither_skeleton": "2025-04-06 00:20:51 +0000",
       "minecraft:husk": "2025-04-04 02:06:46 +0000",
+      "minecraft:piglin": "2025-04-11 04:02:39 +0000",
       "minecraft:enderman": "2025-04-03 01:56:59 +0000",
       "minecraft:stray": "2025-04-04 02:07:02 +0000",
       "minecraft:zombie": "2025-04-03 00:36:51 +0000",
@@ -2291,6 +2292,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-04 23:55:36 +0000",
+      "minecraft:nether_wastes": "2025-04-11 04:01:12 +0000",
       "minecraft:warped_forest": "2025-04-06 03:00:34 +0000"
     },
     "done": false
@@ -3645,6 +3647,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-11 04:24:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_white_helmet": {
     "criteria": {
       "has_item": "2025-04-11 03:27:00 +0000"
@@ -3654,6 +3662,12 @@
   "iceandfire:iceandfire/kill_myrmex": {
     "criteria": {
       "chitin": "2025-04-11 03:23:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-11 04:10:49 +0000"
     },
     "done": true
   },
@@ -3675,9 +3689,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-04-11 04:36:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_white_leggings": {
     "criteria": {
       "has_item": "2025-04-11 03:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-04-11 04:36:32 +0000"
     },
     "done": true
   },
@@ -3699,6 +3731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_desert_helmet": {
     "criteria": {
       "has_item": "2025-04-11 03:23:28 +0000"
@@ -3711,9 +3749,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-11 04:14:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_boots": {
     "criteria": {
       "has_item": "2025-04-11 03:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-11 04:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-04-11 04:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-04-11 04:42:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-04-11 04:02:54 +0000"
     },
     "done": true
   },
@@ -3747,15 +3827,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-11 04:21:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_white_chestplate": {
     "criteria": {
       "has_item": "2025-04-11 03:27:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-04-11 04:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-11 04:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-11 04:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-11 04:14:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-04-11 03:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-11 04:02:54 +0000"
     },
     "done": true
   },
@@ -3771,15 +3893,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-04-11 04:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-04-11 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-11 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-11 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-04-11 04:14:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_desert_axe": {
     "criteria": {
       "has_item": "2025-04-11 03:23:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-11 04:02:54 +0000"
+    },
+    "done": true
+  },
   "globalxp:recipes/misc/xp_block": {
     "criteria": {
       "has_emerald": "2025-04-11 02:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-11 04:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-04-11 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-11 04:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-04-11 04:20:25 +0000"
     },
     "done": true
   },
@@ -3795,9 +3989,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-11 04:02:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-04-11 03:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-04-11 04:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-04-11 04:36:32 +0000"
     },
     "done": true
   },
@@ -3825,6 +4037,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-04-11 03:28:16 +0000"
@@ -3837,9 +4061,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-11 04:36:32 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/squid": {
     "criteria": {
       "has_ink_sac": "2025-04-11 03:21:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
     },
     "done": true
   },
@@ -3855,6 +4091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-11 04:36:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_desert_leggings": {
     "criteria": {
       "has_item": "2025-04-11 03:23:28 +0000"
@@ -3867,9 +4109,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-04-11 04:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-04-11 04:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-11 04:14:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-04-11 03:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
     },
     "done": true
   },
@@ -3885,15 +4151,81 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-04-11 04:02:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_chestplate": {
     "criteria": {
       "has_item": "2025-04-11 03:19:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-11 04:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-04-11 04:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-11 04:36:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-04-11 03:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-11 04:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-04-11 04:14:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-04-11 04:14:39 +0000"
     },
     "done": true
   },
@@ -3915,9 +4247,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-04-11 04:22:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
       "has_item": "2025-04-11 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-11 04:20:48 +0000"
     },
     "done": true
   },

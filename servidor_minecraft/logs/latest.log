@@ -1134,3 +1134,86 @@
 [11Apr2025 03:43:51.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [11Apr2025 03:44:08.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
 [11Apr2025 03:44:38.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set the time to 1000]
+[11Apr2025 03:46:28.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 withered away whilst fighting Cockatrice
+[11Apr2025 03:48:20.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [No Step on Snake]
+[11Apr2025 03:49:30.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [We do a little trolling...]
+[11Apr2025 03:52:58.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys has made the advancement [Stone Age]
+[11Apr2025 03:54:39.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz has made the advancement [Compressing ingots]
+[11Apr2025 03:55:27.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set the time to 1000]
+[11Apr2025 03:55:45.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa fell from a high place
+[11Apr2025 03:56:47.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Cobweb Entanglement]
+[11Apr2025 03:58:32.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Apr2025 03:58:32.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[11Apr2025 04:07:17.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set the time to 1000]
+[11Apr2025 04:10:49.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Nightmare Fuel]
+[11Apr2025 04:11:25.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3xyzz lost connection: Disconnected
+[11Apr2025 04:11:25.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz left the game
+[11Apr2025 04:12:10.682] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: r3xyzz[/127.176.123.199:59257] logged in with entity id 133840 at (-73.69999998807907, 62.0, -124.30000001192093)
+[11Apr2025 04:12:10.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz joined the game
+[11Apr2025 04:12:11.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported r3xyzz to Matelunaaa]
+[11Apr2025 04:12:15.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz burned to death
+[11Apr2025 04:12:20.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported r3xyzz to Matelunaaa]
+[11Apr2025 04:12:32.105] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/125565, l='ServerLevel[world]', x=-345.45, y=95.94, z=348.94] died, message: 'Fletcher bled to death'
+[11Apr2025 04:13:11.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys has made the advancement [Its Like Printing my Own Money!]
+[11Apr2025 04:14:16.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys has made the advancement [Ice Bucket Challenge]
+[11Apr2025 04:14:43.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys has made the advancement [The Only Good Bug...]
+[11Apr2025 04:15:23.235] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Apr2025 04:20:25.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Oh Shiny]
+[11Apr2025 04:20:26.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz has made the advancement [Nightmare Fuel]
+[11Apr2025 04:21:01.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Ant-Agonizer]
+[11Apr2025 04:21:26.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Ant Farm]
+[11Apr2025 04:21:57.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Apr2025 04:21:57.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[11Apr2025 04:22:15.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys has made the advancement [Monster Hunter]
+[11Apr2025 04:23:26.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Pic-A-Nic Basket?]
+[11Apr2025 04:24:41.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Who is Cutting Onions?]
+[11Apr2025 04:25:23.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 burned to death
+[11Apr2025 04:25:23.253] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KidGore6 with unique ID travelersbackpack.standard_11.04.2025-04.25.23.dat
+[11Apr2025 04:26:40.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz has made the advancement [Hot Stuff]
+[11Apr2025 04:26:47.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Apr2025 04:26:47.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[11Apr2025 04:30:20.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Quite the Renovation]
+[11Apr2025 04:30:29.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Apr2025 04:30:30.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Apr2025 04:31:01.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 burned to death
+[11Apr2025 04:31:01.583] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KidGore6 with unique ID travelersbackpack.standard_11.04.2025-04.31.01.dat
+[11Apr2025 04:32:05.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa was slain by Crimson Mosquito
+[11Apr2025 04:32:46.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Apr2025 04:32:48.156] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Apr2025 04:32:48.857] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Apr2025 04:32:52.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to r3xyzz]
+[11Apr2025 04:32:53.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> AMTRONG !!!!!
+[11Apr2025 04:32:59.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> NO NOS DEJES EN PERU
+[11Apr2025 04:33:05.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Cursed Pyramid]
+[11Apr2025 04:33:18.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 was blown up by Death Worm
+[11Apr2025 04:33:18.863] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for sebax401 with unique ID travelersbackpack.standard_11.04.2025-04.33.18.dat
+[11Apr2025 04:34:02.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to kishyys]
+[11Apr2025 04:34:05.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 was slain by Koboleton
+[11Apr2025 04:34:29.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 was slain by Sea Serpent
+[11Apr2025 04:34:46.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 hit the ground too hard whilst trying to escape Sea Serpent
+[11Apr2025 04:34:51.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebax401 lost connection: Disconnected
+[11Apr2025 04:34:51.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 left the game
+[11Apr2025 04:35:23.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to r3xyzz]
+[11Apr2025 04:35:59.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> q hace?
+[11Apr2025 04:36:10.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> pense q era un grifo
+[11Apr2025 04:36:40.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[11Apr2025 04:38:26.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> good night
+[11Apr2025 04:38:29.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3xyzz lost connection: Disconnected
+[11Apr2025 04:38:29.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz left the game
+[11Apr2025 04:38:56.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set the time to 1000]
+[11Apr2025 04:42:10.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Gave 1 [Cherry Sapling] to Matelunaaa]
+[11Apr2025 04:42:54.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> z
+[11Apr2025 04:43:43.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> pq hsy tantos pandas
+[11Apr2025 04:43:48.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> nose
+[11Apr2025 04:44:02.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> l pase a pegar auno yya no m quieren
+[11Apr2025 04:44:32.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> hare una fuente
+[11Apr2025 04:44:37.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> y los pandas no deberian odiarla
+[11Apr2025 04:44:46.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> m pegan
+[11Apr2025 04:44:49.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> a
+[11Apr2025 04:44:53.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> y si haga la fuente
+[11Apr2025 04:44:57.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa lost connection: Disconnected
+[11Apr2025 04:44:57.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa left the game
+[11Apr2025 04:45:16.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kishyys lost connection: Disconnected
+[11Apr2025 04:45:16.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys left the game
+[11Apr2025 04:45:22.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Disconnected
+[11Apr2025 04:45:22.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
