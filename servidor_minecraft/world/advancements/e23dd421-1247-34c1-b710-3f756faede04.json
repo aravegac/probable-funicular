@@ -3052,6 +3052,12 @@
     },
     "done": true
   },
+  "globalxp:recipes/misc/xp_block": {
+    "criteria": {
+      "has_emerald": "2025-04-06 03:03:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2025-04-06 02:25:33 +0000"
