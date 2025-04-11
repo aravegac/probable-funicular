@@ -3283,3 +3283,72 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Apr2025 23:07:26.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=-38, z=345} BlockPos{x=-143, y=-38, z=346}
 [11Apr2025 23:07:34.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-144, y=-37, z=350} BlockPos{x=-145, y=-38, z=350}
 [11Apr2025 23:07:34.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-144, y=-37, z=350} BlockPos{x=-145, y=-38, z=350}
+[11Apr2025 23:08:23.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=-42, z=364} BlockPos{x=-173, y=-40, z=366}
+[11Apr2025 23:08:23.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=-42, z=364} BlockPos{x=-173, y=-40, z=366}
+[11Apr2025 23:08:23.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=-42, z=364} BlockPos{x=-171, y=-43, z=364}
+[11Apr2025 23:09:12.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=-42, z=361} BlockPos{x=-187, y=-42, z=362}
+[11Apr2025 23:09:16.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=-39, z=358} BlockPos{x=-198, y=-40, z=358}
+[11Apr2025 23:09:17.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=-39, z=358} BlockPos{x=-198, y=-40, z=358}
+[11Apr2025 23:09:17.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=-39, z=358} BlockPos{x=-198, y=-40, z=358}
+[11Apr2025 23:09:17.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=-39, z=358} BlockPos{x=-198, y=-40, z=358}
+[11Apr2025 23:09:42.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-191, y=-42, z=347} BlockPos{x=-192, y=-43, z=347}
+[11Apr2025 23:09:43.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=-44, z=349} BlockPos{x=-190, y=-44, z=349}
+[11Apr2025 23:10:28.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 23:10:28.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 23:10:35.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> yya hice tu mochila
+[11Apr2025 23:10:44.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=-47, z=338} BlockPos{x=-169, y=-47, z=337}
+[11Apr2025 23:10:50.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=-45, z=328} BlockPos{x=-170, y=-48, z=327}
+[11Apr2025 23:10:53.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> te la paso o la dejo en alguna parte?
+[11Apr2025 23:11:00.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Apr2025 23:11:00.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[11Apr2025 23:11:01.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> vvoy
+[11Apr2025 23:11:39.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ahi ta
+[11Apr2025 23:11:44.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> graciaass
+[11Apr2025 23:11:46.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis
+[11Apr2025 23:12:36.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> y donde estas haciendo la granja?
+[11Apr2025 23:12:41.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> cmo
+[11Apr2025 23:12:47.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> cachai la base del ethan
+[11Apr2025 23:12:48.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> ubicacion slkjkksl
+[11Apr2025 23:12:50.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sisi
+[11Apr2025 23:12:50.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> si
+[11Apr2025 23:12:55.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pasando alfrente
+[11Apr2025 23:12:58.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ahí ta
+[11Apr2025 23:13:10.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> medio lejos pero resulta q ahí hay un oceano
+[11Apr2025 23:13:20.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> justito alfrente
+[11Apr2025 23:13:25.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> y tienes waypoint para llegar?
+[11Apr2025 23:13:27.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> chiquita la weá pero es ideal
+[11Apr2025 23:13:28.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> mmm nao
+[11Apr2025 23:13:34.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> tengo q hacer eso
+[11Apr2025 23:13:38.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> hay que buscarlo para que resulte bueno llegar ahi
+[11Apr2025 23:13:42.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> true
+[11Apr2025 23:13:48.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> creo q igual se puede craftear
+[11Apr2025 23:13:49.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> creo
+[11Apr2025 23:14:02.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> sisis pero es medio webiado el crafteo
+[11Apr2025 23:14:08.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> concha la lora
+[11Apr2025 23:14:16.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> enderperals y amatistas
+[11Apr2025 23:14:19.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> parece q si XD
+[11Apr2025 23:15:28.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 23:15:28.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 23:16:05.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> tengo para sacar totems
+[11Apr2025 23:16:24.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> esos los de los pillagers?
+[11Apr2025 23:16:25.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> justo estan los wnes de las raids en la casa del ithan oajakaja
+[11Apr2025 23:16:30.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> Xdd
+[11Apr2025 23:16:33.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> xddd
+[11Apr2025 23:16:40.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> igual podrías ir a buscar una mansión
+[11Apr2025 23:16:48.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> y aprovechando en el camino capás te encuentras con dragones
+[11Apr2025 23:16:53.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> ._.
+[11Apr2025 23:17:00.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> :-P
+[11Apr2025 23:17:02.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> es que no tengo waystone para viajar
+[11Apr2025 23:17:07.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> hay q ir a pata
+[11Apr2025 23:17:08.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> noma
+[11Apr2025 23:17:13.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> porque despues el regreso mucha pereza
+[11Apr2025 23:17:26.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no hay un waystone acá?
+[11Apr2025 23:17:32.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> mmmmmmmmmmm
+[11Apr2025 23:17:35.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> igual
+[11Apr2025 23:17:41.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> por ahí hay waystones naturales
+[11Apr2025 23:17:55.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> voy a ver para craftear igual para llevarme uno en caso de
+[11Apr2025 23:17:56.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> o por último te hago tp yo
+[11Apr2025 23:17:57.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> lol
+[11Apr2025 23:18:02.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis
+[11Apr2025 23:18:09.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> o lo q te digo de último la cual
+[11Apr2025 23:18:11.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> es menos webeado
