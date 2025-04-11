@@ -2234,6 +2234,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-05 00:18:25 +0000",
+      "minecraft:nether_wastes": "2025-04-11 23:53:02 +0000",
       "minecraft:warped_forest": "2025-04-05 00:18:56 +0000"
     },
     "done": false
@@ -3792,15 +3793,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-11 23:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-11 23:53:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-11 23:16:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-11 23:53:53 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:creeperling": {
     "criteria": {
       "encountered_creeperling": "2025-04-11 20:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-11 23:52:20 +0000"
     },
     "done": true
   },
@@ -3819,6 +3844,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-04-11 23:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-11 23:52:20 +0000"
     },
     "done": true
   },
@@ -3876,6 +3907,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-04-11 23:53:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-11 23:16:14 +0000"
@@ -3915,6 +3952,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-04-11 20:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-11 23:45:32 +0000"
     },
     "done": true
   },
