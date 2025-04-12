@@ -3427,6 +3427,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-04-12 04:44:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-04-12 03:41:51 +0000"
@@ -4372,6 +4378,12 @@
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-12 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-12 04:48:07 +0000"
     },
     "done": true
   },
