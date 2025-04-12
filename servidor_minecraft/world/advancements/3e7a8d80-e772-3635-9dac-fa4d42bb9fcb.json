@@ -3481,6 +3481,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-12 03:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-12 03:53:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2025-04-12 03:17:55 +0000"
@@ -4306,6 +4318,12 @@
   "iceandfire:recipes/combat/armor_silver_metal_helmet": {
     "criteria": {
       "has_the_recipe": "2025-04-12 02:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-12 03:56:02 +0000"
     },
     "done": true
   },
