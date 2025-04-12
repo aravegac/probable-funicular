@@ -133,3 +133,46 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [12Apr2025 05:46:49.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz joined the game
 [12Apr2025 05:50:38.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
 [12Apr2025 05:51:24.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-497, y=95, z=143} BlockPos{x=-498, y=93, z=145}
+[12Apr2025 05:54:33.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported r3xyzz to Matelunaaa]
+[12Apr2025 05:54:46.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz was shot by KidGore6
+[12Apr2025 05:54:46.887] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for r3xyzz with unique ID travelersbackpack.standard_12.04.2025-05.54.46.dat
+[12Apr2025 05:55:00.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported r3xyzz to Matelunaaa]
+[12Apr2025 05:55:24.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz was shot by KidGore6
+[12Apr2025 05:55:24.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3xyzz moved wrongly!
+[12Apr2025 05:55:34.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 was slain by Matelunaaa
+[12Apr2025 05:55:34.968] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KidGore6 with unique ID travelersbackpack.standard_12.04.2025-05.55.34.dat
+[12Apr2025 05:55:38.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported r3xyzz to Matelunaaa]
+[12Apr2025 05:58:31.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz was shot by KidGore6
+[12Apr2025 05:58:31.427] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for r3xyzz with unique ID travelersbackpack.standard_12.04.2025-05.58.31.dat
+[12Apr2025 05:58:31.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3xyzz moved wrongly!
+[12Apr2025 06:03:07.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Apr2025 06:03:07.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: o<--[HERE]
+[12Apr2025 06:03:57.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz has made the advancement [Splintering II]
+[12Apr2025 06:09:52.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Enchanter]
+[12Apr2025 06:10:35.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 was struck with lightning by Lightning Dragon
+[12Apr2025 06:10:35.565] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KidGore6 with unique ID travelersbackpack.standard_12.04.2025-06.10.35.dat
+[12Apr2025 06:12:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz fell from a high place
+[12Apr2025 06:12:46.489] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for r3xyzz with unique ID travelersbackpack.standard_12.04.2025-06.12.46.dat
+[12Apr2025 06:13:18.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> zzzzzzzzzzz
+[12Apr2025 06:13:20.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> zzzzzzzzzzzzzzz
+[12Apr2025 06:13:21.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> zzzzzzzzzzzzzzz
+[12Apr2025 06:13:22.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> zzzzzzzzzzzzzzz
+[12Apr2025 06:13:23.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> zzzzzzzzzzzzzz
+[12Apr2025 06:13:23.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> z
+[12Apr2025 06:13:23.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> z
+[12Apr2025 06:13:24.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> z
+[12Apr2025 06:13:24.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> z
+[12Apr2025 06:13:24.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> z
+[12Apr2025 06:13:24.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> z
+[12Apr2025 06:13:24.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> zz
+[12Apr2025 06:13:25.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> z
+[12Apr2025 06:13:25.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> z
+[12Apr2025 06:13:25.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> z
+[12Apr2025 06:13:25.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> z
+[12Apr2025 06:13:25.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> z
+[12Apr2025 06:13:25.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> z
+[12Apr2025 06:13:25.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> z
+[12Apr2025 06:13:26.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> z
+[12Apr2025 06:13:26.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> z
+[12Apr2025 06:13:33.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to KidGore6]
+[12Apr2025 06:13:45.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported r3xyzz to Matelunaaa]
