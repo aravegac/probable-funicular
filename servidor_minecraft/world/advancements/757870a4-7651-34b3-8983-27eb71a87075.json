@@ -257,7 +257,9 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-04-01 00:20:08 +0000"
+      "in_better_zombie_dungeon": "2025-04-01 00:20:08 +0000",
+      "in_better_monster_room": "2025-04-12 06:55:52 +0000",
+      "in_better_skeleton_dungeon": "2025-04-12 06:59:04 +0000"
     },
     "done": false
   },
@@ -4646,6 +4648,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-12 06:55:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_lightning": {
     "criteria": {
       "has_item": "2025-04-12 06:16:19 +0000"
@@ -4658,6 +4666,12 @@
     },
     "done": true
   },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-04-12 06:59:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-04-12 05:49:14 +0000"
@@ -4667,6 +4681,12 @@
   "iceandfire:recipes/combat/dragonbone_sword_fire": {
     "criteria": {
       "has_item": "2025-04-12 06:50:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-04-12 06:59:56 +0000"
     },
     "done": true
   },

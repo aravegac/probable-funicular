@@ -36,6 +36,7 @@
       "minecraft:wooded_badlands": "2025-04-12 06:29:32 +0000",
       "minecraft:badlands": "2025-04-11 04:36:16 +0000",
       "minecraft:savanna_plateau": "2025-04-04 01:41:10 +0000",
+      "minecraft:beach": "2025-04-12 06:59:00 +0000",
       "minecraft:stony_peaks": "2025-04-04 01:41:25 +0000",
       "minecraft:mangrove_swamp": "2025-04-11 03:47:00 +0000",
       "minecraft:sparse_jungle": "2025-04-04 02:12:40 +0000",
@@ -4342,9 +4343,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-04-12 07:03:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-12 06:32:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-04-12 07:03:11 +0000"
     },
     "done": true
   },
@@ -4435,6 +4448,12 @@
   "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
       "has_item": "2025-04-12 06:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-12 06:57:40 +0000"
     },
     "done": true
   },

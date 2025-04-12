@@ -221,3 +221,18 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [12Apr2025 06:55:16.107] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [12Apr2025 06:55:16.802] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [12Apr2025 06:55:17.501] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:55:51.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz has made the advancement [Quite the Renovation]
+[12Apr2025 06:55:52.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Quite the Renovation]
+[12Apr2025 06:57:40.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Best Friends Forever]
+[12Apr2025 06:59:04.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [A Bone to Pick]
+[12Apr2025 07:02:15.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebax401 lost connection: Disconnected
+[12Apr2025 07:02:15.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 left the game
+[12Apr2025 07:03:02.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Splintering II]
+[12Apr2025 07:03:02.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported r3xyzz to Matelunaaa]
+[12Apr2025 07:03:11.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [A Flaming Sword]
+[12Apr2025 07:03:15.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa lost connection: Disconnected
+[12Apr2025 07:03:15.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa left the game
+[12Apr2025 07:03:25.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Disconnected
+[12Apr2025 07:03:25.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[12Apr2025 07:03:27.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3xyzz lost connection: Disconnected
+[12Apr2025 07:03:27.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz left the game
