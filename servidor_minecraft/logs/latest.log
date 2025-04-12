@@ -250,3 +250,4 @@
 [12Apr2025 02:36:28.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> te la dejo en nun cofre
 [12Apr2025 02:36:44.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> tenkiu
 [12Apr2025 02:36:46.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis
+[12Apr2025 02:49:23.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/207506, l='ServerLevel[world]', x=-624.92, y=66.00, z=-3337.49] died, message: 'Villager was slain by Zombie'
