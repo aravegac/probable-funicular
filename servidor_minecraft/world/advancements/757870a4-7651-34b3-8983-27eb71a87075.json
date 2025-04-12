@@ -44,6 +44,7 @@
       "minecraft:lukewarm_ocean": "2025-04-03 00:45:53 +0000",
       "minecraft:stony_shore": "2025-04-01 00:18:48 +0000",
       "minecraft:dripstone_caves": "2025-04-04 01:46:52 +0000",
+      "minecraft:grove": "2025-04-12 06:38:39 +0000",
       "minecraft:forest": "2025-04-01 00:16:46 +0000",
       "minecraft:desert": "2025-04-06 01:31:30 +0000",
       "minecraft:jungle": "2025-04-03 02:12:19 +0000",
@@ -4614,15 +4615,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-04-12 06:31:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-04-12 05:49:14 +0000"
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-04-12 06:17:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-04-12 06:09:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-04-12 06:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-12 06:23:48 +0000"
     },
     "done": true
   },
