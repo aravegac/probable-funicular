@@ -66,3 +66,8 @@
 [12Apr2025 01:19:36.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
 [12Apr2025 01:20:25.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cakeyshere[/127.231.143.5:41655] logged in with entity id 155076 at (-291.647096639713, 107.0, 266.97088069209394)
 [12Apr2025 01:20:25.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere joined the game
+[12Apr2025 01:26:54.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=55, z=304} BlockPos{x=-101, y=54, z=304}
+[12Apr2025 01:28:05.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 fell from a high place
+[12Apr2025 01:29:07.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-348, y=96, z=325} BlockPos{x=-349, y=94, z=325}
+[12Apr2025 01:29:07.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-348, y=96, z=325} BlockPos{x=-349, y=94, z=325}
+[12Apr2025 01:29:49.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> zzz
