@@ -135,3 +135,29 @@
 [12Apr2025 01:54:39.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-238, y=-51, z=171} BlockPos{x=-238, y=-51, z=172}
 [12Apr2025 01:55:43.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=-42, z=203} BlockPos{x=-256, y=-43, z=204}
 [12Apr2025 01:59:45.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-246, y=-51, z=225} BlockPos{x=-244, y=-52, z=225}
+[12Apr2025 02:02:21.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-218, y=-50, z=267} BlockPos{x=-218, y=-51, z=266}
+[12Apr2025 02:02:26.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-212, y=-51, z=268} BlockPos{x=-211, y=-51, z=267}
+[12Apr2025 02:06:48.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 fell from a high place
+[12Apr2025 02:06:52.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> xddd
+[12Apr2025 02:08:53.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cakeyshere moved too quickly! -0.13624709220650288,-11.056181936937492,-0.9931031537018384
+[12Apr2025 02:08:55.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cakeyshere was kicked for floating too long!
+[12Apr2025 02:08:55.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cakeyshere lost connection: Flying is not enabled on this server
+[12Apr2025 02:08:55.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere left the game
+[12Apr2025 02:08:59.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> xao
+[12Apr2025 02:09:30.133] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e38b13a[id=<null>,name=Cakeyshere,properties={},legacy=false] (/127.231.143.5:56251) lost connection: Disconnected
+[12Apr2025 02:09:35.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cakeyshere[/127.231.143.5:35681] logged in with entity id 186744 at (-96.7010577225544, 118.58655549899203, 282.07881992651977)
+[12Apr2025 02:09:35.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere joined the game
+[12Apr2025 02:09:50.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> metiré de una torre y mi kickeó por volar
+[12Apr2025 02:09:51.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> lol
+[12Apr2025 02:09:56.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> xd
+[12Apr2025 02:10:05.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no me voy aún
+[12Apr2025 02:10:09.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> oe ethan
+[12Apr2025 02:10:14.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> a
+[12Apr2025 02:10:15.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> necesitaré q me hagas una cuenta
+[12Apr2025 02:10:20.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> shit
+[12Apr2025 02:10:21.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> ya
+[12Apr2025 02:10:27.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> nose cuantas horas cumplidas tiene este server
+[12Apr2025 02:10:38.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pero me da cosa q uya esté cerquita de las horas limites
+[12Apr2025 02:10:39.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> jeje
+[12Apr2025 02:11:24.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> mientras antes mejor
+[12Apr2025 02:11:36.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pq github detecta mierdas
