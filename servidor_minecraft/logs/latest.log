@@ -306,3 +306,6 @@
 [12Apr2025 04:03:25.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> Z
 [12Apr2025 04:20:05.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=155, z=277} BlockPos{x=-231, y=153, z=277}
 [12Apr2025 04:20:08.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-230, y=155, z=265} BlockPos{x=-229, y=153, z=264}
+[12Apr2025 04:26:42.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> z
+[12Apr2025 04:26:50.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> asd
+[12Apr2025 04:26:54.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wasd
