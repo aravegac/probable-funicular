@@ -4662,3 +4662,63 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Apr2025 02:49:23.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/207506, l='ServerLevel[world]', x=-624.92, y=66.00, z=-3337.49] died, message: 'Villager was slain by Zombie'
 [12Apr2025 02:50:28.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Apr2025 02:50:28.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 02:53:38.839] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/207513, l='ServerLevel[world]', x=-646.49, y=78.00, z=-3361.26] died, message: 'Villager was slain by Guster'
+[12Apr2025 02:55:28.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 02:55:28.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 02:56:41.781] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/207589, l='ServerLevel[world]', x=-623.30, y=84.00, z=-3378.35] died, message: 'Farmer bled to death'
+[12Apr2025 02:58:37.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 drowned
+[12Apr2025 02:58:38.001] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KidGore6 with unique ID travelersbackpack.standard_12.04.2025-02.58.37.dat
+[12Apr2025 03:00:28.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 03:00:28.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 03:02:50.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> araceli
+[12Apr2025 03:02:57.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> esa wea es una granja de mobs '0
+[12Apr2025 03:03:00.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> ?
+[12Apr2025 03:03:02.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sip
+[12Apr2025 03:03:06.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> supuiestamente
+[12Apr2025 03:03:07.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> jeje
+[12Apr2025 03:03:11.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> las wea grnade
+[12Apr2025 03:03:15.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sipo
+[12Apr2025 03:03:21.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> no podias hacerla mas a la izquierda
+[12Apr2025 03:03:23.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> xd
+[12Apr2025 03:03:23.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> cmo más van a ser las granjas de mobs
+[12Apr2025 03:03:27.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pq
+[12Apr2025 03:03:42.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> no nada
+[12Apr2025 03:03:45.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> XD
+[12Apr2025 03:03:49.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> prosigue nomas
+[12Apr2025 03:03:51.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no vyo a mover esta mamada
+[12Apr2025 03:03:55.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> total
+[12Apr2025 03:04:19.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 fell from a high place
+[12Apr2025 03:05:28.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 03:05:28.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 03:10:28.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 03:10:28.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 03:11:22.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> seba
+[12Apr2025 03:11:26.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> aún no tienes mochila?
+[12Apr2025 03:11:35.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> aun no
+[12Apr2025 03:11:42.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ya okei te paso una
+[12Apr2025 03:11:54.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> wenaaaa
+[12Apr2025 03:12:16.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 withered away
+[12Apr2025 03:12:16.092] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KidGore6 with unique ID travelersbackpack.standard_12.04.2025-03.12.16.dat
+[12Apr2025 03:12:22.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> muchas gracias
+[12Apr2025 03:12:24.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis
+[12Apr2025 03:12:28.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ethan faltas vos
+[12Apr2025 03:12:37.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> tambien
+[12Apr2025 03:13:17.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> la dejo en el cofre
+[12Apr2025 03:13:46.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> wema
+[12Apr2025 03:13:48.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> wena
+[12Apr2025 03:14:51.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> como abro la mochila ?
+[12Apr2025 03:14:53.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> xd
+[12Apr2025 03:14:57.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> tienes q bindearla
+[12Apr2025 03:14:59.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> en controles
+[12Apr2025 03:15:28.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 03:15:28.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 03:20:28.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 03:20:28.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 03:20:33.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> zzzz
+[12Apr2025 03:25:28.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 03:25:28.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 03:27:12.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Apr2025 03:27:12.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pña<--[HERE]
+[12Apr2025 03:30:28.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 03:30:28.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 03:32:02.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> zzz
