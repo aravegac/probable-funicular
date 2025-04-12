@@ -3,3 +3,13 @@
 [12Apr2025 00:02:35.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> a yaya
 [12Apr2025 00:05:40.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [Nightmare Fuel]
 [12Apr2025 00:11:45.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Enchanter]
+[12Apr2025 00:35:01.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere fell from a high place
+[12Apr2025 00:35:01.367] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cakeyshere with unique ID travelersbackpack.standard_12.04.2025-00.35.01.dat
+[12Apr2025 00:37:41.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Successfully restored Cakeyshere's items]
+[12Apr2025 00:38:05.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sebax401[/127.86.54.225:52855] logged in with entity id 121686 at (-318.5, 83.0, 203.5)
+[12Apr2025 00:38:05.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 joined the game
+[12Apr2025 00:38:27.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wtf ola
+[12Apr2025 00:39:03.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> wenaaa
+[12Apr2025 00:39:25.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 hit the ground too hard whilst trying to escape Death Worm
+[12Apr2025 00:39:48.534] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['sebax401'/123260, l='ServerLevel[world]', x=-3683.31, y=62.79, z=241.43] died: sebax401 was blown up by Death Worm
+[12Apr2025 00:39:52.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 was slain by Koboleton

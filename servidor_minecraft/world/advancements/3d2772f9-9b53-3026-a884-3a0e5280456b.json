@@ -38,6 +38,7 @@
       "minecraft:mangrove_swamp": "2025-04-11 03:47:00 +0000",
       "minecraft:sparse_jungle": "2025-04-04 02:12:40 +0000",
       "minecraft:river": "2025-04-03 01:50:40 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-12 00:27:18 +0000",
       "minecraft:stony_shore": "2025-04-05 00:42:53 +0000",
       "minecraft:dripstone_caves": "2025-04-04 23:43:26 +0000",
       "minecraft:grove": "2025-04-11 02:32:06 +0000",
@@ -4007,6 +4008,12 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-04-11 21:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-04-12 00:30:53 +0000"
     },
     "done": true
   },
