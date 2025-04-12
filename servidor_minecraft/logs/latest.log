@@ -91,3 +91,12 @@
 [12Apr2025 22:59:25.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
 [12Apr2025 22:59:30.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> oal
 [12Apr2025 23:12:53.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [Enchanter]
+[12Apr2025 23:26:51.713] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [creativecore:main,littleframes:main] rejected their client side version number
+[12Apr2025 23:26:51.714] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[12Apr2025 23:26:51.721] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@31c79ea2[id=<null>,name=Sebax401_,properties={},legacy=false] (/127.227.56.82:35025) lost connection: Connection closed - mismatched mod channel list
+[12Apr2025 23:26:53.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Voluntary Exile]
+[12Apr2025 23:28:21.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebax401_[/127.227.56.82:50661] logged in with entity id 15105 at (56.5, 78.0, 53.5)
+[12Apr2025 23:28:21.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ joined the game
+[12Apr2025 23:28:21.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ has made the advancement [Ice and Fire]
+[12Apr2025 23:28:29.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wtf?
+[12Apr2025 23:28:30.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ has made the advancement [Alex's Mobs]
