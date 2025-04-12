@@ -257,6 +257,7 @@
       "minecraft:spider": "2025-04-04 02:25:35 +0000",
       "minecraft:creeper": "2025-04-12 02:54:06 +0000",
       "minecraft:phantom": "2025-04-12 02:54:42 +0000",
+      "minecraft:witch": "2025-04-12 06:51:42 +0000",
       "minecraft:wither_skeleton": "2025-04-11 21:56:46 +0000",
       "minecraft:husk": "2025-04-04 03:11:32 +0000",
       "minecraft:enderman": "2025-04-12 00:59:02 +0000",
@@ -4287,9 +4288,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
+    "criteria": {
+      "has_item": "2025-04-12 06:45:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
       "has_item": "2025-04-12 06:34:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2025-04-12 06:45:36 +0000"
     },
     "done": true
   },
@@ -4365,9 +4378,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-12 06:45:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-12 06:32:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-04-12 06:51:06 +0000"
     },
     "done": true
   },
@@ -4380,6 +4405,12 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_fire_dragon": "2025-04-12 06:22:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-04-12 06:44:58 +0000"
     },
     "done": true
   },
@@ -4407,6 +4438,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2025-04-12 06:45:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_helmet": {
     "criteria": {
       "has_item": "2025-04-12 06:37:30 +0000"
@@ -4425,6 +4462,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-04-12 06:44:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-12 06:44:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
     "criteria": {
       "has_dragonscales_amythest": "2025-04-12 06:37:30 +0000"
@@ -4440,6 +4489,18 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-12 06:32:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-04-12 06:44:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-04-12 06:50:28 +0000"
     },
     "done": true
   },
@@ -4464,6 +4525,12 @@
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-12 06:32:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-04-12 06:44:58 +0000"
     },
     "done": true
   },

@@ -51,6 +51,7 @@
       "minecraft:ocean": "2025-04-03 00:46:57 +0000",
       "minecraft:windswept_savanna": "2025-04-11 03:15:25 +0000",
       "minecraft:deep_dark": "2025-04-04 23:34:16 +0000",
+      "minecraft:meadow": "2025-04-12 06:47:07 +0000",
       "minecraft:savanna": "2025-04-03 00:57:04 +0000",
       "minecraft:plains": "2025-04-01 00:17:23 +0000"
     },
@@ -4633,6 +4634,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-04-12 06:44:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-04-12 06:09:52 +0000"
@@ -4654,6 +4661,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-04-12 05:49:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-04-12 06:50:11 +0000"
     },
     "done": true
   },

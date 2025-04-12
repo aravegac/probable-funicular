@@ -196,3 +196,28 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [12Apr2025 06:40:10.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [12Apr2025 06:43:31.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to r3xyzz]
 [12Apr2025 06:44:19.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [What Was That!?]
+[12Apr2025 06:45:22.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported r3xyzz to Matelunaaa]
+[12Apr2025 06:47:14.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to KidGore6]
+[12Apr2025 06:47:17.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported r3xyzz to Matelunaaa]
+[12Apr2025 06:51:28.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3128, y=70, z=2077} BlockPos{x=-3128, y=68, z=2077}
+[12Apr2025 06:51:28.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3128, y=70, z=2077} BlockPos{x=-3128, y=68, z=2077}
+[12Apr2025 06:52:45.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set the time to 1000]
+[12Apr2025 06:53:20.421] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:53:33.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:53:41.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:54:53.003] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:54:53.701] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:54:55.405] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:54:58.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:55:01.304] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:55:03.005] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:55:04.405] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:55:05.102] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:55:08.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:55:09.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:55:10.602] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:55:11.304] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:55:14.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:55:16.107] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:55:16.802] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Apr2025 06:55:17.501] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
