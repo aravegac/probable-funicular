@@ -3427,6 +3427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-12 03:41:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/lime_lens": {
     "criteria": {
       "has_glass_pane": "2025-04-12 01:16:53 +0000"
@@ -3499,6 +3505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-12 03:48:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_metal_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-12 02:19:10 +0000"
@@ -3526,6 +3538,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-04-12 01:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-12 03:41:51 +0000"
     },
     "done": true
   },
@@ -3871,6 +3889,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-04-12 03:48:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-12 01:16:18 +0000"
@@ -4057,6 +4081,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-04-12 03:49:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-12 02:24:10 +0000"
@@ -4102,6 +4132,12 @@
   "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-04-12 02:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-12 03:41:51 +0000"
     },
     "done": true
   },
@@ -4249,6 +4285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-12 03:48:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-12 01:16:18 +0000"
@@ -4309,6 +4351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-04-12 03:44:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-04-12 03:38:39 +0000"
@@ -4327,6 +4375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-12 03:42:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-04-12 03:17:55 +0000"
@@ -4339,9 +4393,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-12 03:48:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-12 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-12 03:42:55 +0000"
     },
     "done": true
   },
@@ -4408,6 +4474,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-04-12 03:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-12 03:42:55 +0000"
     },
     "done": true
   },
