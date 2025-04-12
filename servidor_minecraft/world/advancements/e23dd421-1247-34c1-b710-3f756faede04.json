@@ -566,6 +566,7 @@
       "minecraft:husk": "2025-04-04 23:52:57 +0000",
       "minecraft:piglin": "2025-04-12 00:48:31 +0000",
       "minecraft:stray": "2025-04-04 03:11:57 +0000",
+      "minecraft:enderman": "2025-04-12 23:00:43 +0000",
       "minecraft:zombie": "2025-04-03 01:21:01 +0000",
       "minecraft:drowned": "2025-04-03 00:37:39 +0000"
     },
@@ -4135,6 +4136,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-04-12 19:43:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-12 23:00:44 +0000"
     },
     "done": true
   },
