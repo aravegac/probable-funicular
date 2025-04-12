@@ -18,3 +18,51 @@
 [12Apr2025 00:42:14.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> habla tai muteao
 [12Apr2025 00:42:22.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> xuxa
 [12Apr2025 00:43:13.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 hit the ground too hard
+[12Apr2025 00:55:29.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 has made the advancement [Cover Me with Diamonds]
+[12Apr2025 00:55:50.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Ghost! Ghost! Toast?]
+[12Apr2025 01:02:26.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-163, y=-51, z=320} BlockPos{x=-163, y=-51, z=321}
+[12Apr2025 01:02:37.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere burned to death
+[12Apr2025 01:02:37.587] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cakeyshere with unique ID travelersbackpack.standard_12.04.2025-01.02.37.dat
+[12Apr2025 01:02:42.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sebax401> que paso
+[12Apr2025 01:02:52.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> taba cavando en el nether
+[12Apr2025 01:02:57.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> xd
+[12Apr2025 01:03:22.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Successfully restored Cakeyshere's items]
+[12Apr2025 01:03:38.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebax401 lost connection: Disconnected
+[12Apr2025 01:03:38.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 left the game
+[12Apr2025 01:03:38.178] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Apr2025 01:03:45.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Apr2025 01:03:45.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[12Apr2025 01:03:50.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sebax401[/127.227.56.82:38275] logged in with entity id 144721 at (-320.267181888196, 89.0, 212.1596413256659)
+[12Apr2025 01:03:50.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebax401 joined the game
+[12Apr2025 01:08:04.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=-52, z=274} BlockPos{x=-150, y=-53, z=273}
+[12Apr2025 01:09:52.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-160, y=-52, z=291} BlockPos{x=-160, y=-52, z=292}
+[12Apr2025 01:09:52.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-160, y=-51, z=290} BlockPos{x=-160, y=-52, z=292}
+[12Apr2025 01:11:39.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-196, y=-52, z=237} BlockPos{x=-195, y=-53, z=237}
+[12Apr2025 01:12:06.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Apr2025 01:12:06.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[12Apr2025 01:12:14.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-194, y=-53, z=212} BlockPos{x=-193, y=-54, z=213}
+[12Apr2025 01:12:16.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-195, y=-54, z=217} BlockPos{x=-196, y=-54, z=218}
+[12Apr2025 01:12:40.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: r3xyzz[/127.176.123.199:44373] logged in with entity id 150945 at (-236.69999998807907, 144.0, 289.69999998807907)
+[12Apr2025 01:12:40.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz joined the game
+[12Apr2025 01:12:44.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> oal
+[12Apr2025 01:14:27.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-234, y=-50, z=197} BlockPos{x=-233, y=-51, z=197}
+[12Apr2025 01:14:44.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-237, y=-52, z=180} BlockPos{x=-238, y=-52, z=180}
+[12Apr2025 01:14:44.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-237, y=-52, z=180} BlockPos{x=-238, y=-52, z=180}
+[12Apr2025 01:15:32.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-239, y=-36, z=190} BlockPos{x=-238, y=-37, z=191}
+[12Apr2025 01:15:38.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-247, y=-35, z=193} BlockPos{x=-248, y=-35, z=192}
+[12Apr2025 01:15:41.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-247, y=-31, z=189} BlockPos{x=-247, y=-30, z=190}
+[12Apr2025 01:15:41.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-247, y=-31, z=188} BlockPos{x=-247, y=-32, z=189}
+[12Apr2025 01:15:41.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-247, y=-31, z=188} BlockPos{x=-247, y=-32, z=189}
+[12Apr2025 01:15:41.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-247, y=-31, z=188} BlockPos{x=-247, y=-32, z=189}
+[12Apr2025 01:15:44.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-248, y=-39, z=188} BlockPos{x=-246, y=-38, z=190}
+[12Apr2025 01:16:04.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-252, y=-40, z=189} BlockPos{x=-252, y=-41, z=189}
+[12Apr2025 01:16:14.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-253, y=-48, z=181} BlockPos{x=-253, y=-49, z=181}
+[12Apr2025 01:16:21.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-250, y=-47, z=180} BlockPos{x=-250, y=-48, z=181}
+[12Apr2025 01:16:21.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-250, y=-48, z=180} BlockPos{x=-250, y=-48, z=181}
+[12Apr2025 01:16:21.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-250, y=-48, z=179} BlockPos{x=-250, y=-48, z=181}
+[12Apr2025 01:19:16.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cakeyshere lost connection: Disconnected
+[12Apr2025 01:19:16.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere left the game
+[12Apr2025 01:19:36.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Apr2025 01:19:36.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[12Apr2025 01:20:25.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cakeyshere[/127.231.143.5:41655] logged in with entity id 155076 at (-291.647096639713, 107.0, 266.97088069209394)
+[12Apr2025 01:20:25.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere joined the game
