@@ -3202,6 +3202,12 @@
     },
     "done": true
   },
+  "crafting:rawblocksmelt": {
+    "criteria": {
+      "rawblocksmelt_0": "2025-04-12 01:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-11 20:04:03 +0000"
@@ -3910,6 +3916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-12 01:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-12 00:58:41 +0000"
@@ -4129,6 +4141,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-11 22:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-12 01:39:40 +0000"
     },
     "done": true
   },

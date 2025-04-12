@@ -3454,6 +3454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-12 01:32:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-12 01:16:18 +0000"
@@ -3505,6 +3511,12 @@
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-12 01:16:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-12 01:32:50 +0000"
     },
     "done": true
   },
@@ -3583,6 +3595,12 @@
   "securitycraft:recipes/misc/gray_lens": {
     "criteria": {
       "has_glass_pane": "2025-04-12 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-04-12 01:32:49 +0000"
     },
     "done": true
   },
@@ -3895,6 +3913,12 @@
   "securitycraft:recipes/misc/black_lens": {
     "criteria": {
       "has_glass_pane": "2025-04-12 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-12 01:32:50 +0000"
     },
     "done": true
   },
