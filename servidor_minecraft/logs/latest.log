@@ -1,1 +1,6 @@
 [13Apr2025 00:00:40.626] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61cd5cbd[id=<null>,name=Sebax401_,properties={},legacy=false] (/127.227.56.82:60417) lost connection: Disconnected
+[13Apr2025 00:02:29.774] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[13Apr2025 00:02:48.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebax401_[/127.227.56.82:60967] logged in with entity id 11161 at (-504.2888360560827, 95.0, 143.1599280587346)
+[13Apr2025 00:02:48.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ joined the game
+[13Apr2025 00:03:30.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [What a Deal!]
+[13Apr2025 00:07:52.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ has made the advancement [Stone Age]

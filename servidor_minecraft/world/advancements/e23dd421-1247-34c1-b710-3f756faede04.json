@@ -4205,5 +4205,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-12 23:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-13 00:03:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
