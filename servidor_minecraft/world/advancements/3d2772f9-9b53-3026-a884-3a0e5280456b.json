@@ -32,6 +32,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:eroded_badlands": "2025-04-11 04:36:10 +0000",
+      "minecraft:frozen_river": "2025-04-13 00:36:07 +0000",
       "minecraft:birch_forest": "2025-04-12 05:34:59 +0000",
       "minecraft:wooded_badlands": "2025-04-12 06:29:32 +0000",
       "minecraft:badlands": "2025-04-11 04:36:16 +0000",
@@ -43,17 +44,21 @@
       "minecraft:river": "2025-04-03 01:50:40 +0000",
       "minecraft:lukewarm_ocean": "2025-04-12 00:27:18 +0000",
       "minecraft:stony_shore": "2025-04-05 00:42:53 +0000",
+      "minecraft:snowy_plains": "2025-04-13 00:29:08 +0000",
       "minecraft:dripstone_caves": "2025-04-04 23:43:26 +0000",
+      "minecraft:snowy_taiga": "2025-04-13 00:41:12 +0000",
       "minecraft:grove": "2025-04-11 02:32:06 +0000",
       "minecraft:forest": "2025-04-03 01:40:44 +0000",
       "minecraft:desert": "2025-04-11 03:20:57 +0000",
       "minecraft:jungle": "2025-04-04 02:12:37 +0000",
+      "minecraft:snowy_beach": "2025-04-13 00:40:52 +0000",
       "minecraft:windswept_savanna": "2025-04-11 03:44:27 +0000",
       "minecraft:warm_ocean": "2025-04-11 03:45:18 +0000",
       "minecraft:flower_forest": "2025-04-12 23:11:18 +0000",
       "minecraft:frozen_peaks": "2025-04-12 05:31:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-11 02:32:21 +0000",
       "minecraft:deep_dark": "2025-04-04 23:57:38 +0000",
+      "minecraft:meadow": "2025-04-13 00:26:50 +0000",
       "minecraft:savanna": "2025-04-04 01:40:41 +0000",
       "minecraft:plains": "2025-04-03 01:50:41 +0000"
     },
@@ -4597,9 +4602,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-13 00:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-13 00:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-13 00:35:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-04-13 00:35:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-04-13 00:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-13 00:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-13 00:35:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-04-13 00:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-13 00:35:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-13 00:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-13 00:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-13 00:27:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-04-12 23:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-13 00:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-04-13 00:27:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-13 00:35:00 +0000"
     },
     "done": true
   },
@@ -4609,9 +4704,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-13 00:35:00 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sheep_smithing": {
     "criteria": {
       "has_sheep": "2025-04-12 23:50:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-04-13 00:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-13 00:41:03 +0000"
     },
     "done": true
   },
