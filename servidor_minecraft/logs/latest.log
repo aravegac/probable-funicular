@@ -4,3 +4,4 @@
 [13Apr2025 00:02:48.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ joined the game
 [13Apr2025 00:03:30.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [What a Deal!]
 [13Apr2025 00:07:52.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ has made the advancement [Stone Age]
+[13Apr2025 00:14:24.228] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
