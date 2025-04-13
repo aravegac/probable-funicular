@@ -4618,57 +4618,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
-    "criteria": {
-      "has_yellow_terracotta": "2025-04-12 06:31:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-04-12 05:49:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2025-04-12 06:17:34 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:creeperling": {
-    "criteria": {
-      "encountered_creeperling": "2025-04-12 06:44:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-04-12 06:09:52 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:small_dungeon": {
-    "criteria": {
-      "in_better_monster_room": "2025-04-12 06:55:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
-    "criteria": {
-      "has_item": "2025-04-12 06:16:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-04-12 06:23:48 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:skeleton_dungeon": {
-    "criteria": {
-      "in_better_skeleton_dungeon": "2025-04-12 06:59:04 +0000"
     },
     "done": true
   },
@@ -4678,9 +4630,57 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-12 06:09:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-04-12 06:16:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-04-12 06:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-12 06:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-04-12 06:31:47 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-04-12 06:44:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_fire": {
     "criteria": {
       "has_item": "2025-04-12 06:50:11 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-12 06:55:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-04-12 06:59:04 +0000"
     },
     "done": true
   },

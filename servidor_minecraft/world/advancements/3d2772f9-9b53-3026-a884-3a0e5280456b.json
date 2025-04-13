@@ -4591,5 +4591,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-12 23:26:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep_smithing": {
+    "criteria": {
+      "has_sheep": "2025-04-12 23:50:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
