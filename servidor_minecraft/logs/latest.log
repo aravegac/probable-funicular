@@ -65,3 +65,31 @@
 [13Apr2025 00:50:53.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=-12, z=274} BlockPos{x=-232, y=-11, z=273}
 [13Apr2025 00:50:54.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=-12, z=278} BlockPos{x=-231, y=-12, z=277}
 [13Apr2025 00:50:54.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=-12, z=278} BlockPos{x=-231, y=-12, z=277}
+[13Apr2025 00:51:55.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KidGore6) moved wrongly! 0.39923046831972897
+[13Apr2025 00:51:55.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KidGore6) moved wrongly! 0.6307587993651396
+[13Apr2025 00:51:55.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KidGore6) moved wrongly! 1.014131786130747
+[13Apr2025 00:52:01.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:52:53.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> z
+[13Apr2025 00:56:32.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-196, y=-4, z=265} BlockPos{x=-196, y=-4, z=264}
+[13Apr2025 00:56:33.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-197, y=-4, z=265} BlockPos{x=-195, y=-5, z=266}
+[13Apr2025 00:56:40.352] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/55647, l='ServerLevel[world]', x=-4710.16, y=67.56, z=5043.35] died, message: 'Nitwit was slain by Fire Dragon'
+[13Apr2025 00:56:41.092] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/55409, l='ServerLevel[world]', x=-4682.63, y=68.00, z=5043.72] died, message: 'Nitwit suffocated in a wall'
+[13Apr2025 00:56:48.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55408, l='ServerLevel[world]', x=-4681.34, y=67.31, z=5052.70] died, message: 'Villager was slain by Fire Dragon'
+[13Apr2025 00:56:54.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/55191, l='ServerLevel[world]', x=-4670.50, y=65.00, z=5037.62] died, message: 'Farmer was turned into KFC by Fire Dragon'
+[13Apr2025 00:57:06.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55293, l='ServerLevel[world]', x=-4675.05, y=63.00, z=5012.25] died, message: 'Villager was slain by Fire Dragon'
+[13Apr2025 00:57:16.429] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55413, l='ServerLevel[world]', x=-4672.24, y=64.00, z=5007.40] died, message: 'Villager was slain by Fire Dragon'
+[13Apr2025 00:57:23.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55296, l='ServerLevel[world]', x=-4668.62, y=64.00, z=5004.51] died, message: 'Villager bled to death'
+[13Apr2025 00:57:24.935] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/55294, l='ServerLevel[world]', x=-4661.62, y=65.00, z=5027.40] died, message: 'Nitwit was slain by Fire Dragon'
+[13Apr2025 01:02:21.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebax401_ lost connection: Disconnected
+[13Apr2025 01:02:21.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ left the game
+[13Apr2025 01:09:18.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Apr2025 01:09:18.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[13Apr2025 01:13:15.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebax401_[/127.227.56.82:35197] logged in with entity id 63446 at (-350.4410740327118, 90.0, 197.824559043582)
+[13Apr2025 01:13:15.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ joined the game
+[13Apr2025 01:19:42.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> z
+[13Apr2025 01:19:43.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> z
+[13Apr2025 01:20:23.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> z
+[13Apr2025 01:20:43.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> ola
+[13Apr2025 01:20:48.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> qye haces ara?
+[13Apr2025 01:21:07.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-489, y=94, z=148} BlockPos{x=-489, y=93, z=147}
+[13Apr2025 01:21:23.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> esta afk parece
