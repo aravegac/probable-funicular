@@ -93,3 +93,10 @@
 [13Apr2025 01:20:48.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> qye haces ara?
 [13Apr2025 01:21:07.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-489, y=94, z=148} BlockPos{x=-489, y=93, z=147}
 [13Apr2025 01:21:23.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> esta afk parece
+[13Apr2025 01:22:52.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis taba afk
+[13Apr2025 01:22:53.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> jeje
+[13Apr2025 01:23:11.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> taba viendo cmo sacarle provecho al mod del ice and fire
+[13Apr2025 01:26:22.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Disconnected
+[13Apr2025 01:26:22.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[13Apr2025 01:39:01.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebax401_ lost connection: Disconnected
+[13Apr2025 01:39:01.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ left the game

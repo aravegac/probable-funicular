@@ -629,6 +629,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-13 01:21:15 +0000",
       "minecraft:zombie": "2025-04-13 00:24:15 +0000"
     },
     "done": false
@@ -1392,6 +1393,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-13 00:55:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-04-13 01:21:24 +0000"
     },
     "done": true
   },

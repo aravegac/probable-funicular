@@ -3627,3 +3627,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Apr2025 01:21:13.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Apr2025 01:21:13.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Apr2025 01:21:23.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> esta afk parece
+[13Apr2025 01:22:52.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis taba afk
+[13Apr2025 01:22:53.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> jeje
+[13Apr2025 01:23:11.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> taba viendo cmo sacarle provecho al mod del ice and fire
+[13Apr2025 01:26:13.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 01:26:13.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 01:26:22.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Disconnected
+[13Apr2025 01:26:22.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[13Apr2025 01:31:13.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 01:31:13.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 01:36:13.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 01:36:13.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 01:39:01.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebax401_ lost connection: Disconnected
+[13Apr2025 01:39:01.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ left the game
+[13Apr2025 01:41:13.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 01:41:13.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
