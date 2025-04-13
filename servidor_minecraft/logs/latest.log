@@ -129,3 +129,24 @@
 [13Apr2025 02:12:20.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> lol
 [13Apr2025 02:30:21.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ has made the advancement [Suit Up]
 [13Apr2025 02:30:37.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ has made the advancement [Getting an Upgrade]
+[13Apr2025 02:33:55.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Another Brick in the Wall]
+[13Apr2025 02:34:30.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ has made the advancement [Diamonds!]
+[13Apr2025 02:36:11.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matelunaaa[/127.243.139.177:40455] logged in with entity id 93408 at (-365.2348368709757, 93.0, 125.92148670862463)
+[13Apr2025 02:36:11.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
+[13Apr2025 02:36:26.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cakeyshere lost connection: Disconnected
+[13Apr2025 02:36:26.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere left the game
+[13Apr2025 02:36:38.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa lost connection: Disconnected
+[13Apr2025 02:36:38.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa left the game
+[13Apr2025 02:36:48.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Apr2025 02:36:48.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[13Apr2025 02:37:33.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cakeyshere[/127.231.143.5:53423] logged in with entity id 93990 at (-414.3170655866751, 98.875, 293.78287692009036)
+[13Apr2025 02:37:33.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere joined the game
+[13Apr2025 02:38:46.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matelunaaa[/127.243.139.177:52753] logged in with entity id 94731 at (-350.3838969878608, 95.875, 121.81023941298771)
+[13Apr2025 02:38:46.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
+[13Apr2025 02:39:25.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa lost connection: Disconnected
+[13Apr2025 02:39:25.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa left the game
+[13Apr2025 02:40:08.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [Who You Gonna Call?]
+[13Apr2025 02:41:02.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebax401_ lost connection: Disconnected
+[13Apr2025 02:41:02.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ left the game
+[13Apr2025 02:46:16.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 was slain by Dread Beast
+[13Apr2025 02:46:16.278] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KidGore6 with unique ID travelersbackpack.standard_13.04.2025-02.46.16.dat
