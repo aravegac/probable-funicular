@@ -50,3 +50,18 @@
 [13Apr2025 00:39:27.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [13Apr2025 00:39:27.374] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [13Apr2025 00:39:27.475] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:41:56.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Tie me to the Mast]
+[13Apr2025 00:44:17.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Mine? Mine? Mine?]
+[13Apr2025 00:46:15.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-216, y=-11, z=246} BlockPos{x=-216, y=-12, z=245}
+[13Apr2025 00:46:26.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Sea? Not a Problem]
+[13Apr2025 00:48:06.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-215, y=-9, z=249} BlockPos{x=-216, y=-9, z=248}
+[13Apr2025 00:48:06.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-215, y=-9, z=249} BlockPos{x=-216, y=-9, z=248}
+[13Apr2025 00:49:34.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-251, y=-10, z=254} BlockPos{x=-252, y=-10, z=255}
+[13Apr2025 00:50:00.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-244, y=-14, z=250} BlockPos{x=-243, y=-14, z=251}
+[13Apr2025 00:50:11.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-238, y=-12, z=267} BlockPos{x=-239, y=-12, z=268}
+[13Apr2025 00:50:11.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-238, y=-12, z=267} BlockPos{x=-239, y=-12, z=268}
+[13Apr2025 00:50:53.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=-12, z=274} BlockPos{x=-232, y=-11, z=273}
+[13Apr2025 00:50:53.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=-12, z=274} BlockPos{x=-232, y=-11, z=273}
+[13Apr2025 00:50:53.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=-12, z=274} BlockPos{x=-232, y=-11, z=273}
+[13Apr2025 00:50:54.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=-12, z=278} BlockPos{x=-231, y=-12, z=277}
+[13Apr2025 00:50:54.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=-12, z=278} BlockPos{x=-231, y=-12, z=277}
