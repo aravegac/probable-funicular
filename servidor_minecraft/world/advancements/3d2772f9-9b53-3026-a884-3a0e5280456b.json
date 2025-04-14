@@ -5051,9 +5051,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-14 01:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-14 01:42:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-04-14 01:43:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_blue_boots": {
     "criteria": {
       "has_item": "2025-04-14 01:23:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-14 01:41:00 +0000"
     },
     "done": true
   },
@@ -5066,6 +5090,12 @@
   "iceandfire:recipes/combat/tide_blue_chestplate": {
     "criteria": {
       "has_item": "2025-04-14 01:23:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-04-14 01:41:00 +0000"
     },
     "done": true
   },
@@ -5093,6 +5123,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-14 01:43:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_leggings": {
     "criteria": {
       "has_item": "2025-04-14 01:21:37 +0000"
@@ -5117,6 +5153,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-14 01:42:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-04-14 01:27:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_boots": {
     "criteria": {
       "has_item": "2025-04-14 01:21:37 +0000"
@@ -5135,15 +5183,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-04-14 01:43:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-04-14 00:14:28 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-04-14 01:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-14 00:51:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-04-14 01:41:00 +0000"
     },
     "done": true
   },
@@ -5159,9 +5225,27 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-04-14 01:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-04-14 00:51:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone_smithing": {
+    "criteria": {
+      "has_sandstone": "2025-04-14 01:31:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-04-14 01:41:00 +0000"
     },
     "done": true
   },
@@ -5177,9 +5261,21 @@
     },
     "done": false
   },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-04-14 01:43:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-04-14 00:47:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-04-14 01:43:51 +0000"
     },
     "done": true
   },
@@ -5198,6 +5294,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-14 00:51:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-04-14 01:33:26 +0000"
     },
     "done": true
   },

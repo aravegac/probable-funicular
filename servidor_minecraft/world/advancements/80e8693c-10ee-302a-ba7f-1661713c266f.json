@@ -39,6 +39,8 @@
     "criteria": {
       "minecraft:river": "2025-04-12 23:30:53 +0000",
       "minecraft:forest": "2025-04-12 23:28:22 +0000",
+      "minecraft:desert": "2025-04-14 01:41:51 +0000",
+      "minecraft:warm_ocean": "2025-04-14 01:42:01 +0000",
       "minecraft:plains": "2025-04-12 23:30:56 +0000"
     },
     "done": false
@@ -2676,6 +2678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-14 01:40:38 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2025-04-14 00:52:31 +0000"
@@ -2823,6 +2831,12 @@
   "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-14 01:07:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-14 01:41:56 +0000"
     },
     "done": true
   },
@@ -3000,6 +3014,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-04-14 01:41:56 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/black_sleeping_bag": {
     "criteria": {
       "has_black_wool": "2025-04-14 00:52:31 +0000"
@@ -3045,6 +3065,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-14 00:52:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-04-14 01:41:56 +0000"
     },
     "done": true
   },
@@ -3132,6 +3158,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-04-14 01:41:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
     "criteria": {
       "has_sign": "2025-04-14 01:07:15 +0000"
@@ -3189,6 +3221,12 @@
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-04-14 01:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-04-14 01:42:12 +0000"
     },
     "done": true
   },
@@ -3477,6 +3515,12 @@
   "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-14 01:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-14 01:40:38 +0000"
     },
     "done": true
   },
