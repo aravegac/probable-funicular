@@ -4507,6 +4507,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-14 04:17:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-14 04:17:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_boots": {
     "criteria": {
       "has_item": "2025-04-14 04:04:43 +0000"
@@ -4543,6 +4555,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-14 04:25:04 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/bee_smithing": {
     "criteria": {
       "has_bee": "2025-04-14 04:13:18 +0000"
@@ -4564,6 +4582,12 @@
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2025-04-14 04:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-14 04:17:37 +0000"
     },
     "done": true
   },
