@@ -276,3 +276,134 @@
 [14Apr2025 02:56:21.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ was slain by Koboleton
 [14Apr2025 02:56:34.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
 [14Apr2025 02:56:47.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported r3xyzz to Matelunaaa]
+[14Apr2025 02:56:47.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz has made the advancement [Cursed Pyramid]
+[14Apr2025 02:56:52.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ola
+[14Apr2025 02:56:59.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Sebax401_ to Matelunaaa]
+[14Apr2025 02:57:01.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> hay q bajar ono
+[14Apr2025 02:57:04.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Sebax401_ to Matelunaaa]
+[14Apr2025 02:57:07.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Sebax401_ to Matelunaaa]
+[14Apr2025 02:57:07.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ fell from a high place
+[14Apr2025 02:57:10.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> xddddddddddddddddddd
+[14Apr2025 02:57:11.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> XZDD
+[14Apr2025 02:57:45.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 was slain by Wadjet
+[14Apr2025 02:57:45.903] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KidGore6 with unique ID travelersbackpack.standard_14.04.2025-02.57.45.dat
+[14Apr2025 02:57:55.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Sebax401_ to Matelunaaa]
+[14Apr2025 02:57:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[14Apr2025 02:58:04.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3xyzz lost connection: Disconnected
+[14Apr2025 02:58:04.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz left the game
+[14Apr2025 02:58:07.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 fell from a high place
+[14Apr2025 02:58:09.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa moved too quickly! -0.5581077573538096,-11.798174230684282,0.5759642354878451
+[14Apr2025 02:58:13.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[14Apr2025 02:58:22.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere fell from a high place
+[14Apr2025 02:58:22.210] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cakeyshere with unique ID travelersbackpack.standard_14.04.2025-02.58.22.dat
+[14Apr2025 02:58:23.702] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@13d04ab2[id=<null>,name=r3xyzz,properties={},legacy=false] (/127.19.61.212:37971) lost connection: Disconnected
+[14Apr2025 02:58:38.598] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3acc01c5[id=<null>,name=r3xyzz,properties={},legacy=false] (/127.19.61.212:58509) lost connection: Disconnected
+[14Apr2025 02:58:45.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: r3xyzz[/127.19.61.212:47613] logged in with entity id 53935 at (-3621.21844510633, 63.84089180331973, 248.84563297019523)
+[14Apr2025 02:58:45.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz joined the game
+[14Apr2025 02:58:55.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Cakeyshere to Matelunaaa]
+[14Apr2025 02:59:16.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Creative Mode]
+[14Apr2025 02:59:29.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Survival Mode]
+[14Apr2025 03:00:10.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ was slain by Ancient Remnant
+[14Apr2025 03:00:16.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Sebax401_ to Matelunaaa]
+[14Apr2025 03:00:27.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere was slain by Ancient Remnant
+[14Apr2025 03:00:33.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Cakeyshere to Matelunaaa]
+[14Apr2025 03:01:17.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has completed the challenge [Death finds a Way]
+[14Apr2025 03:02:02.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> REMANTS SKULL
+[14Apr2025 03:02:03.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> QN LO TINEE
+[14Apr2025 03:02:20.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> lkjsdlñfkjfLÑKJDF
+[14Apr2025 03:02:22.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> aver
+[14Apr2025 03:02:28.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no tengo naa
+[14Apr2025 03:03:13.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 was slain by r3xyzz
+[14Apr2025 03:03:13.029] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KidGore6 with unique ID travelersbackpack.standard_14.04.2025-03.03.13.dat
+[14Apr2025 03:03:31.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[14Apr2025 03:03:33.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ya
+[14Apr2025 03:03:38.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> elijan un numero del 1 al 5
+[14Apr2025 03:03:41.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> 3
+[14Apr2025 03:03:43.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> 4
+[14Apr2025 03:03:53.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> 2
+[14Apr2025 03:03:54.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> 1
+[14Apr2025 03:04:01.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ya calmao
+[14Apr2025 03:04:38.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> denuevo
+[14Apr2025 03:04:39.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> 1
+[14Apr2025 03:04:40.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wepa
+[14Apr2025 03:04:40.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> del 1 al 4
+[14Apr2025 03:04:40.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> 3
+[14Apr2025 03:04:43.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> 2
+[14Apr2025 03:04:56.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> elijan numero
+[14Apr2025 03:05:00.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> 2
+[14Apr2025 03:05:09.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> aracely el 4
+[14Apr2025 03:05:13.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> XD
+[14Apr2025 03:05:44.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 was slain by Matelunaaa
+[14Apr2025 03:05:44.724] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KidGore6 with unique ID travelersbackpack.standard_14.04.2025-03.05.44.dat
+[14Apr2025 03:05:50.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ya
+[14Apr2025 03:05:52.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ultimo
+[14Apr2025 03:05:57.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> x un disco
+[14Apr2025 03:05:57.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> 2
+[14Apr2025 03:05:58.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> 3
+[14Apr2025 03:06:01.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> 1
+[14Apr2025 03:06:04.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ya
+[14Apr2025 03:06:08.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[14Apr2025 03:06:15.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> 4
+[14Apr2025 03:06:35.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> listo
+[14Apr2025 03:06:40.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> queda 1
+[14Apr2025 03:06:41.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> se me fue
+[14Apr2025 03:06:46.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> elijan un numero s
+[14Apr2025 03:06:50.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> 1
+[14Apr2025 03:06:50.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> 2
+[14Apr2025 03:06:52.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> 3
+[14Apr2025 03:06:52.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> 2
+[14Apr2025 03:06:59.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> vean
+[14Apr2025 03:07:05.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> tchaa
+[14Apr2025 03:07:06.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> 4
+[14Apr2025 03:07:12.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ven aracelty
+[14Apr2025 03:07:25.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> x esto
+[14Apr2025 03:07:47.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Apr2025 03:07:47.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pla<--[HERE]
+[14Apr2025 03:08:09.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> listo
+[14Apr2025 03:08:10.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> no hay mas
+[14Apr2025 03:08:22.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> rip
+[14Apr2025 03:08:26.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[14Apr2025 03:08:35.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported r3xyzz to Matelunaaa]
+[14Apr2025 03:08:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Cakeyshere to Matelunaaa]
+[14Apr2025 03:08:43.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Sebax401_ to Matelunaaa]
+[14Apr2025 03:08:52.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> hmmmm
+[14Apr2025 03:09:00.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> alguno ya triene un dragond e mascota
+[14Apr2025 03:09:02.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ?
+[14Apr2025 03:09:07.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> no
+[14Apr2025 03:09:09.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> es dificil
+[14Apr2025 03:09:17.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> encontré una dragona mamá
+[14Apr2025 03:09:20.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> por ahí
+[14Apr2025 03:09:21.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> es de hielo
+[14Apr2025 03:09:35.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> la matamos y suelta un solo huevo
+[14Apr2025 03:09:42.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> es brígida eso si
+[14Apr2025 03:14:33.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ has made the advancement [Bloodthirsty]
+[14Apr2025 03:15:24.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[14Apr2025 03:17:02.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cakeyshere) moved wrongly! 0.39998721103660273
+[14Apr2025 03:17:02.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cakeyshere) moved wrongly! 0.7999750907673047
+[14Apr2025 03:17:02.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cakeyshere) moved wrongly! 1.1999635723227016
+[14Apr2025 03:17:02.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cakeyshere) moved wrongly! 1.5999525955202785
+[14Apr2025 03:17:02.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cakeyshere) moved wrongly! 0.3999895106755389
+[14Apr2025 03:17:02.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cakeyshere) moved wrongly! 0.7999794600812038
+[14Apr2025 03:17:02.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cakeyshere) moved wrongly! 0.3930043976125148
+[14Apr2025 03:17:07.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Creative Mode]
+[14Apr2025 03:17:29.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Survival Mode]
+[14Apr2025 03:19:21.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> como se actualiza un mod aracely
+[14Apr2025 03:19:26.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> mmmmmmmmmmmmmmmmmmmmmmmm
+[14Apr2025 03:19:32.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> pq la mascota no se puede domesticar en esta version del mod
+[14Apr2025 03:19:36.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wtf
+[14Apr2025 03:19:45.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Creative Mode]
+[14Apr2025 03:19:53.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> la versión del mod q instalé es el más reciente para la 1.20.1
+[14Apr2025 03:20:24.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> a menos de q en el lapso desde q creé el server hasta ahora sacaron otra actualización para la 1.20.1
+[14Apr2025 03:20:34.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> to podría actualizarlo reemplazando el .jar en los archivos del server
+[14Apr2025 03:20:59.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Survival Mode]
+[14Apr2025 03:22:37.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> si
+[14Apr2025 03:22:52.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> revisa si hay otra actualización
+[14Apr2025 03:22:55.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> y si la hay
+[14Apr2025 03:23:02.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pasame el .jar y lo actualizo
+[14Apr2025 03:23:10.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> mira ds
+[14Apr2025 03:23:20.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> miro
+[14Apr2025 03:23:45.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KidGore6) moved wrongly! 0.28741448437813233
+[14Apr2025 03:23:45.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KidGore6) moved wrongly! 0.5310935580405385
+[14Apr2025 03:23:45.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KidGore6) moved wrongly! 0.6451937631427427
+[14Apr2025 03:23:45.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KidGore6) moved wrongly! 0.8790410295932816
+[14Apr2025 03:23:45.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KidGore6) moved wrongly! 1.0115921833130415
