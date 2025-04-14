@@ -4751,5 +4751,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-04-14 01:18:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

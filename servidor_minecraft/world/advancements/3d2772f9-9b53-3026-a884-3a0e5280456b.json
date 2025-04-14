@@ -32,6 +32,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-13 03:01:36 +0000",
+      "minecraft:deep_ocean": "2025-04-14 01:19:35 +0000",
       "minecraft:eroded_badlands": "2025-04-11 04:36:10 +0000",
       "minecraft:frozen_river": "2025-04-13 00:36:07 +0000",
       "minecraft:birch_forest": "2025-04-12 05:34:59 +0000",
@@ -40,6 +41,7 @@
       "minecraft:savanna_plateau": "2025-04-04 01:41:10 +0000",
       "minecraft:beach": "2025-04-12 06:59:00 +0000",
       "minecraft:stony_peaks": "2025-04-04 01:41:25 +0000",
+      "minecraft:dark_forest": "2025-04-14 01:14:28 +0000",
       "minecraft:mangrove_swamp": "2025-04-11 03:47:00 +0000",
       "minecraft:sparse_jungle": "2025-04-04 02:12:40 +0000",
       "minecraft:river": "2025-04-03 01:50:40 +0000",
@@ -57,10 +59,12 @@
       "minecraft:desert": "2025-04-11 03:20:57 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-13 00:45:18 +0000",
       "minecraft:jungle": "2025-04-04 02:12:37 +0000",
+      "minecraft:ocean": "2025-04-14 01:18:26 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-13 03:03:21 +0000",
       "minecraft:snowy_beach": "2025-04-13 00:40:52 +0000",
       "minecraft:windswept_savanna": "2025-04-11 03:44:27 +0000",
       "minecraft:warm_ocean": "2025-04-11 03:45:18 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-14 01:21:17 +0000",
       "minecraft:flower_forest": "2025-04-12 23:11:18 +0000",
       "minecraft:frozen_peaks": "2025-04-12 05:31:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-11 02:32:21 +0000",
@@ -5041,9 +5045,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-04-14 01:23:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-04-14 01:23:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-14 00:51:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-14 01:23:32 +0000"
     },
     "done": true
   },
@@ -5053,9 +5075,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-04-14 01:23:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-04-14 01:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-04-14 00:51:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-04-14 01:21:37 +0000"
     },
     "done": true
   },
@@ -5065,15 +5105,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-04-14 01:23:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-14 00:51:10 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-04-14 01:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2025-04-14 00:59:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-04-14 01:21:37 +0000"
     },
     "done": true
   },
@@ -5086,6 +5144,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-14 00:51:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-14 01:21:37 +0000"
     },
     "done": true
   },
@@ -5134,6 +5198,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-14 00:51:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-04-14 01:21:37 +0000"
     },
     "done": true
   },
