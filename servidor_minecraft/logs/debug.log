@@ -3312,3 +3312,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Apr2025 01:03:39.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Apr2025 01:03:59.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
 [14Apr2025 01:03:59.616] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['KidGore6'/50277, l='ServerLevel[world]', x=-5779.87, y=44.50, z=6338.70] died: KidGore6 was slain by KidGore6
+[14Apr2025 01:04:02.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['KidGore6'/50271, l='ServerLevel[world]', x=-5779.96, y=44.50, z=6338.52] died: KidGore6 was slain by KidGore6
+[14Apr2025 01:04:29.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['KidGore6'/50244, l='ServerLevel[world]', x=-5805.33, y=36.00, z=6319.83] died: KidGore6 was slain by KidGore6
+[14Apr2025 01:05:32.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=239, y=84, z=45} BlockPos{x=239, y=83, z=45}
+[14Apr2025 01:06:15.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 was doomed to fall by Skeleton
+[14Apr2025 01:08:39.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 01:08:39.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 01:08:43.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=295, y=63, z=153} BlockPos{x=296, y=64, z=153}
+[14Apr2025 01:10:21.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa lost connection: Disconnected
+[14Apr2025 01:10:21.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa left the game
+[14Apr2025 01:11:13.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> z
+[14Apr2025 01:11:18.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> z
+[14Apr2025 01:13:39.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 01:13:39.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
