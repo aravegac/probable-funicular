@@ -42,6 +42,7 @@
       "minecraft:grove": "2025-04-14 03:30:18 +0000",
       "minecraft:forest": "2025-04-12 23:28:22 +0000",
       "minecraft:desert": "2025-04-14 01:41:51 +0000",
+      "minecraft:jungle": "2025-04-14 03:53:06 +0000",
       "minecraft:warm_ocean": "2025-04-14 01:42:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-14 03:31:19 +0000",
       "minecraft:savanna": "2025-04-14 03:28:24 +0000",
@@ -3541,27 +3542,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
+  "cataclysm:find_cursed_pyramid": {
     "criteria": {
-      "has_chiseled_sandstone": "2025-04-14 02:53:37 +0000"
+      "pyramid": "2025-04-14 02:37:36 +0000"
     },
     "done": true
   },
-  "majruszsdifficulty:bleeding_inflicted": {
+  "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "bleeding_applied": "2025-04-14 03:14:33 +0000"
+      "has_sherd": "2025-04-14 02:38:18 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-04-14 02:39:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-04-14 03:14:34 +0000"
     },
     "done": true
   },
@@ -3577,9 +3572,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-14 02:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-04-14 02:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_chiseled_sandstone": "2025-04-14 02:53:37 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-04-14 03:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-14 03:14:34 +0000"
     },
     "done": true
   },
@@ -3588,18 +3607,6 @@
       "has_porkchop": "2025-04-14 03:14:34 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-04-14 02:39:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-04-14 02:38:18 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
@@ -3610,12 +3617,6 @@
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-04-14 03:14:34 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_cursed_pyramid": {
-    "criteria": {
-      "pyramid": "2025-04-14 02:37:36 +0000"
     },
     "done": true
   },
