@@ -37,6 +37,7 @@
       "minecraft:stony_peaks": "2025-04-03 02:23:46 +0000",
       "minecraft:sparse_jungle": "2025-04-12 06:13:47 +0000",
       "minecraft:river": "2025-04-06 02:16:03 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-14 01:45:31 +0000",
       "minecraft:stony_shore": "2025-04-12 02:20:41 +0000",
       "minecraft:dripstone_caves": "2025-04-12 06:22:56 +0000",
       "minecraft:grove": "2025-04-12 06:38:36 +0000",
@@ -3903,9 +3904,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-04-14 01:45:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-04-14 01:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-14 01:45:31 +0000"
     },
     "done": true
   },
