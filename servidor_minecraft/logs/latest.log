@@ -192,3 +192,87 @@
 [14Apr2025 02:35:21.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Disconnected
 [14Apr2025 02:35:21.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
 [14Apr2025 02:35:21.093] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Apr2025 02:35:33.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> nvm ya lo encontré
+[14Apr2025 02:35:45.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to Cakeyshere]
+[14Apr2025 02:35:51.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> allá
+[14Apr2025 02:36:09.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.44.251.10:44155] logged in with entity id 28918 at (-469.45099999892096, 120.0, 523.514605490887)
+[14Apr2025 02:36:09.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[14Apr2025 02:36:46.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Cakeyshere to Matelunaaa]
+[14Apr2025 02:36:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> o_o
+[14Apr2025 02:36:52.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[14Apr2025 02:37:16.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Sebax401_ to Matelunaaa]
+[14Apr2025 02:37:27.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> el ethan viene despues
+[14Apr2025 02:37:33.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> guau
+[14Apr2025 02:37:36.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ has made the advancement [Cursed Pyramid]
+[14Apr2025 02:37:42.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Cursed Pyramid]
+[14Apr2025 02:40:30.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Sebax401_ to Matelunaaa]
+[14Apr2025 02:40:33.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[14Apr2025 02:40:49.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa was doomed to fall by KidGore6
+[14Apr2025 02:40:49.076] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Matelunaaa with unique ID travelersbackpack.standard_14.04.2025-02.40.49.dat
+[14Apr2025 02:40:52.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> XD
+[14Apr2025 02:40:53.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to Sebax401_]
+[14Apr2025 02:40:54.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ was slain by Koboleton
+[14Apr2025 02:41:14.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> CUAL era el plan
+[14Apr2025 02:41:19.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> xd
+[14Apr2025 02:41:19.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Sebax401_ to Matelunaaa]
+[14Apr2025 02:41:42.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> bajen
+[14Apr2025 02:42:37.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> tan listos
+[14Apr2025 02:42:38.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ?
+[14Apr2025 02:42:41.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis
+[14Apr2025 02:43:21.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Creative Mode]
+[14Apr2025 02:43:38.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Survival Mode]
+[14Apr2025 02:44:27.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 was slain by Ancient Remnant
+[14Apr2025 02:44:27.554] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KidGore6 with unique ID travelersbackpack.standard_14.04.2025-02.44.27.dat
+[14Apr2025 02:44:36.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ was killed by Ancient Remnant using magic
+[14Apr2025 02:44:38.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere was killed by Ancient Remnant using magic
+[14Apr2025 02:44:38.888] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cakeyshere with unique ID travelersbackpack.standard_14.04.2025-02.44.38.dat
+[14Apr2025 02:44:46.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Sebax401_ to Matelunaaa]
+[14Apr2025 02:44:50.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[14Apr2025 02:44:50.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> xdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+[14Apr2025 02:44:52.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> XCD.
+[14Apr2025 02:44:54.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Cakeyshere to Matelunaaa]
+[14Apr2025 02:45:11.750] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Cakeyshere'/37996, l='ServerLevel[world]', x=82.07, y=39.26, z=-2380.14] died: Cakeyshere was slain by Ancient Remnant
+[14Apr2025 02:45:30.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> PEGHUENLE
+[14Apr2025 02:45:31.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ was killed by Ancient Remnant using magic
+[14Apr2025 02:45:36.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Sebax401_ to Matelunaaa]
+[14Apr2025 02:45:54.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ was slain by Ancient Remnant
+[14Apr2025 02:46:19.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has completed the challenge [Death finds a Way]
+[14Apr2025 02:46:41.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> y q ad
+[14Apr2025 02:46:42.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> da
+[14Apr2025 02:46:52.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Sebax401_ to Matelunaaa]
+[14Apr2025 02:47:18.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> la gracia de esta wea es conseguir las 2 partes de armadura del dinosaurio
+[14Apr2025 02:47:24.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> se consiguen con los wnes q peleamos al inicio
+[14Apr2025 02:47:29.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> lol
+[14Apr2025 02:47:40.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> y de ahi buscas a los wnes
+[14Apr2025 02:48:36.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> o_O
+[14Apr2025 02:48:40.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> con eso y huesos
+[14Apr2025 02:48:44.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> Dale
+[14Apr2025 02:48:45.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> se hacen las armaduras
+[14Apr2025 02:48:45.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> guau
+[14Apr2025 02:48:52.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> pero huesos de esos wnes
+[14Apr2025 02:48:55.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> cmo se llama la armadura
+[14Apr2025 02:49:02.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> pone en el jey
+[14Apr2025 02:49:07.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> @cataclysm
+[14Apr2025 02:49:11.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> dale
+[14Apr2025 02:49:15.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> bone reptile
+[14Apr2025 02:49:39.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> solamente es un casco?
+[14Apr2025 02:49:45.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> y pechera
+[14Apr2025 02:50:10.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> -3684 269 69
+[14Apr2025 02:50:18.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> [name:"Breredes", x:-416, y:72, z:-2080, dim:minecraft:overworld]
+[14Apr2025 02:50:22.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ta brigido llo
+[14Apr2025 02:50:28.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> [name:"aldea", x:-3493, y:66, z:39, dim:minecraft:overworld]
+[14Apr2025 02:50:38.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> [name:"qweeqw", x:-3684, y:69, z:269, dim:minecraft:overworld]
+[14Apr2025 02:50:43.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> WTf?
+[14Apr2025 02:51:01.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Sebax401_ to Matelunaaa]
+[14Apr2025 02:51:03.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebax401_> es donde hay otra piramide
+[14Apr2025 02:51:06.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[14Apr2025 02:51:10.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Cakeyshere to Matelunaaa]
+[14Apr2025 02:51:11.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Timed out
+[14Apr2025 02:51:11.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[14Apr2025 02:51:11.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.245.68.124:51273] logged in with entity id 45757 at (-3683.7778662055566, 69.0, 269.76190769766697)
+[14Apr2025 02:51:11.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[14Apr2025 02:53:09.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3633, y=66, z=205} BlockPos{x=-3633, y=65, z=204}
+[14Apr2025 02:54:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Teleported Cakeyshere to Matelunaaa]
+[14Apr2025 02:56:21.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebax401_ was slain by Koboleton
+[14Apr2025 02:56:34.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[14Apr2025 02:56:47.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported r3xyzz to Matelunaaa]
