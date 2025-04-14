@@ -31,21 +31,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-14 02:00:35 +0000",
       "minecraft:eroded_badlands": "2025-04-06 02:39:37 +0000",
       "minecraft:wooded_badlands": "2025-04-06 02:18:00 +0000",
       "minecraft:badlands": "2025-04-06 01:31:03 +0000",
       "minecraft:savanna_plateau": "2025-04-03 01:09:38 +0000",
       "minecraft:beach": "2025-04-06 01:08:21 +0000",
       "minecraft:stony_peaks": "2025-04-03 01:09:52 +0000",
+      "minecraft:dark_forest": "2025-04-14 02:05:19 +0000",
       "minecraft:sparse_jungle": "2025-04-06 01:26:04 +0000",
       "minecraft:river": "2025-04-01 00:04:32 +0000",
       "minecraft:lukewarm_ocean": "2025-04-04 02:55:05 +0000",
       "minecraft:stony_shore": "2025-04-01 00:07:10 +0000",
       "minecraft:dripstone_caves": "2025-04-04 01:51:45 +0000",
       "minecraft:forest": "2025-04-01 00:02:56 +0000",
+      "minecraft:lush_caves": "2025-04-14 02:06:29 +0000",
       "minecraft:desert": "2025-04-06 01:31:32 +0000",
       "minecraft:jungle": "2025-04-06 01:19:32 +0000",
       "minecraft:ocean": "2025-04-06 01:07:36 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-14 02:04:31 +0000",
       "minecraft:deep_dark": "2025-04-11 19:47:08 +0000",
       "minecraft:savanna": "2025-04-03 00:57:10 +0000",
       "minecraft:plains": "2025-04-01 00:06:57 +0000"
@@ -4377,6 +4381,42 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-14 00:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-14 02:08:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-04-14 02:08:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-04-14 02:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-04-14 02:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-14 02:08:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-14 02:30:37 +0000"
     },
     "done": true
   },
